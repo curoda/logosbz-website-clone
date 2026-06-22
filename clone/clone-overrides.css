@@ -1,0 +1,12 @@
+/* Clone fidelity overrides
+   Elementor entrance animations rely on a runtime IntersectionObserver that
+   does not re-trigger in the static export, leaving headings stuck at
+   visibility:hidden. Force the settled (fully-revealed) state so all content
+   is visible exactly as on the fully-loaded original. No layout change. */
+.elementor-invisible {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+.elementor-element.animated {
+  animation-fill-mode: both;
+}
