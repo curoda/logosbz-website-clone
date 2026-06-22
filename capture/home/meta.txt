@@ -1,0 +1,49 @@
+{
+  "title": "Lógos BZ – Designing Your Future",
+  "canonical": "https://logosbz.com/",
+  "metas": {
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover",
+    "description": "At Lógos BZ, every day, we are driven to improve outcomes for patients, healthcare providers, families, and communities.",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og:locale": "en_US",
+    "og:type": "website",
+    "og:title": "Lógos BZ – Designing Your Future",
+    "og:description": "At Lógos BZ, every day, we are driven to improve outcomes for patients, healthcare providers, families, and communities.",
+    "og:url": "https://logosbz.com/",
+    "og:site_name": "Lógos BZ",
+    "og:updated_time": "2026-06-09T23:13:02+00:00",
+    "og:image": "https://logosbz.com/wp-content/uploads/2025/03/20190911_UConn-Rec-Cntr_30_edit_2.webp",
+    "og:image:secure_url": "https://logosbz.com/wp-content/uploads/2025/03/20190911_UConn-Rec-Cntr_30_edit_2.webp",
+    "og:image:width": "900",
+    "og:image:height": "600",
+    "og:image:alt": "Construction Support Services",
+    "og:image:type": "image/webp",
+    "article:published_time": "2025-02-04T15:37:46+00:00",
+    "article:modified_time": "2026-06-09T23:13:02+00:00",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Lógos BZ – Designing Your Future",
+    "twitter:description": "At Lógos BZ, every day, we are driven to improve outcomes for patients, healthcare providers, families, and communities.",
+    "twitter:image": "https://logosbz.com/wp-content/uploads/2025/03/20190911_UConn-Rec-Cntr_30_edit_2.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "muntzdesigns@gmail.com",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "3 minutes",
+    "google-site-verification": "rfu25HO6wi8pGH4eSD5j07Keb58Ydrk-PDaXVW51GpU",
+    "generator": "Elementor 4.1.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+    "msapplication-TileImage": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-270x270.png"
+  },
+  "links": {
+    "profile": "https://gmpg.org/xfn/11",
+    "canonical": "https://logosbz.com/",
+    "alternate": "https://logosbz.com/wp-json/wp/v2/pages/23",
+    "stylesheet": "https://logosbz.com/wp-content/uploads/elementor/css/post-92.css?ver=1782133584",
+    "https://api.w.org/": "https://logosbz.com/wp-json/",
+    "EditURI": "https://logosbz.com/xmlrpc.php?rsd",
+    "shortlink": "https://logosbz.com/",
+    "icon": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-192x192.png",
+    "apple-touch-icon": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-180x180.png"
+  },
+  "analytics": [
+    "G-N9QM2QZ47K"
+  ]
+}
