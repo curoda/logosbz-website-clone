@@ -1,0 +1,2 @@
+desktop full: 1440x2790
+mobile full: 390x4350

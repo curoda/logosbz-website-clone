@@ -1,0 +1,49 @@
+{
+  "title": "How Emerging Technologies Are Transforming Engineering Design – Logos BZ",
+  "canonical": "https://logosbz.com/how-emerging-technologies-are-transforming-engineering-design/",
+  "metas": {
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover",
+    "description": "Emerging technologies are reshaping the way engineers approach design, offering exciting new possibilities for innovation and efficiency.",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "How Emerging Technologies Are Transforming Engineering Design – Logos BZ",
+    "og:description": "Emerging technologies are reshaping the way engineers approach design, offering exciting new possibilities for innovation and efficiency.",
+    "og:url": "https://logosbz.com/how-emerging-technologies-are-transforming-engineering-design/",
+    "og:site_name": "Lógos BZ",
+    "article:section": "Uncategorized",
+    "og:updated_time": "2025-03-12T15:37:08+00:00",
+    "og:image": "https://logosbz.com/wp-content/uploads/2025/02/Capital-Health-Replacement-Hospital.webp",
+    "og:image:secure_url": "https://logosbz.com/wp-content/uploads/2025/02/Capital-Health-Replacement-Hospital.webp",
+    "og:image:width": "1100",
+    "og:image:height": "733",
+    "og:image:alt": "Healthcare Planning",
+    "og:image:type": "image/webp",
+    "article:published_time": "2025-01-03T17:13:49+00:00",
+    "article:modified_time": "2025-03-12T15:37:08+00:00",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "How Emerging Technologies Are Transforming Engineering Design – Logos BZ",
+    "twitter:description": "Emerging technologies are reshaping the way engineers approach design, offering exciting new possibilities for innovation and efficiency.",
+    "twitter:image": "https://logosbz.com/wp-content/uploads/2025/02/Capital-Health-Replacement-Hospital.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "muntzdesigns@gmail.com",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "1 minute",
+    "generator": "Elementor 4.1.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+    "msapplication-TileImage": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-270x270.png"
+  },
+  "links": {
+    "profile": "https://gmpg.org/xfn/11",
+    "canonical": "https://logosbz.com/how-emerging-technologies-are-transforming-engineering-design/",
+    "alternate": "https://logosbz.com/wp-json/wp/v2/posts/249",
+    "stylesheet": "https://logosbz.com/wp-content/uploads/elementor/css/post-92.css?ver=1782133584",
+    "https://api.w.org/": "https://logosbz.com/wp-json/",
+    "EditURI": "https://logosbz.com/xmlrpc.php?rsd",
+    "shortlink": "https://logosbz.com/?p=249",
+    "icon": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-192x192.png",
+    "apple-touch-icon": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-180x180.png"
+  },
+  "analytics": [
+    "G-N9QM2QZ47K"
+  ]
+}

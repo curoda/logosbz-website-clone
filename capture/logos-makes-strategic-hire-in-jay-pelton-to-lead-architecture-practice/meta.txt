@@ -1,0 +1,49 @@
+{
+  "title": "Lógos Makes Strategic Hire In Jay Pelton To Lead Architecture Practice – Logos BZ",
+  "canonical": "https://logosbz.com/logos-makes-strategic-hire-in-jay-pelton-to-lead-architecture-practice/",
+  "metas": {
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover",
+    "description": "Lógos is announcing a pivotal hire, sparking growth in the company’s Architectural and Engineering (A&E) practice supporting its federal and commercial sectors.",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Lógos Makes Strategic Hire In Jay Pelton To Lead Architecture Practice – Logos BZ",
+    "og:description": "Lógos is announcing a pivotal hire, sparking growth in the company’s Architectural and Engineering (A&E) practice supporting its federal and commercial sectors.",
+    "og:url": "https://logosbz.com/logos-makes-strategic-hire-in-jay-pelton-to-lead-architecture-practice/",
+    "og:site_name": "Lógos BZ",
+    "article:section": "Press",
+    "og:updated_time": "2026-06-03T15:31:57+00:00",
+    "og:image": "https://logosbz.com/wp-content/uploads/2025/02/2018_11_08_LPTamwa02_B.webp",
+    "og:image:secure_url": "https://logosbz.com/wp-content/uploads/2025/02/2018_11_08_LPTamwa02_B.webp",
+    "og:image:width": "1100",
+    "og:image:height": "733",
+    "og:image:alt": "Lógos Makes Strategic Hire in Jay Pelton to Lead Architecture Practice",
+    "og:image:type": "image/webp",
+    "article:published_time": "2025-01-15T15:52:00+00:00",
+    "article:modified_time": "2026-06-03T15:31:57+00:00",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Lógos Makes Strategic Hire In Jay Pelton To Lead Architecture Practice – Logos BZ",
+    "twitter:description": "Lógos is announcing a pivotal hire, sparking growth in the company’s Architectural and Engineering (A&E) practice supporting its federal and commercial sectors.",
+    "twitter:image": "https://logosbz.com/wp-content/uploads/2025/02/2018_11_08_LPTamwa02_B.webp",
+    "twitter:label1": "Written by",
+    "twitter:data1": "muntzdesigns@gmail.com",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "2 minutes",
+    "generator": "Elementor 4.1.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+    "msapplication-TileImage": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-270x270.png"
+  },
+  "links": {
+    "profile": "https://gmpg.org/xfn/11",
+    "canonical": "https://logosbz.com/logos-makes-strategic-hire-in-jay-pelton-to-lead-architecture-practice/",
+    "alternate": "https://logosbz.com/wp-json/wp/v2/posts/221",
+    "stylesheet": "https://logosbz.com/wp-content/uploads/elementor/css/post-92.css?ver=1782133584",
+    "https://api.w.org/": "https://logosbz.com/wp-json/",
+    "EditURI": "https://logosbz.com/xmlrpc.php?rsd",
+    "shortlink": "https://logosbz.com/?p=221",
+    "icon": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-192x192.png",
+    "apple-touch-icon": "https://logosbz.com/wp-content/uploads/2025/02/cropped-Logos_FavIcon-01-180x180.png"
+  },
+  "analytics": [
+    "G-N9QM2QZ47K"
+  ]
+}

@@ -16433,7 +16433,7 @@
  {
   "i": 311,
   "tag": "div",
-  "id": "swiper-wrapper-10ae105cfe7974b3d8",
+  "id": "swiper-wrapper-e5dcabaca43510e0f",
   "cls": "swiper-wrapper",
   "rect": {
    "x": 0,
@@ -16956,7 +16956,7 @@
    "z-index": "auto",
    "text-transform": "none",
    "text-decoration": "none",
-   "opacity": "0.197569",
+   "opacity": "0",
    "border": "0px none rgb(37, 37, 37)",
    "object-fit": "fill"
   }
@@ -16966,10 +16966,10 @@
   "tag": "div",
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
-   "x": -12,
-   "y": 38,
-   "w": 415,
-   "h": 1075
+   "x": 0,
+   "y": 70,
+   "w": 390,
+   "h": 1011
   },
   "visible": true,
   "style": {
@@ -17062,7 +17062,7 @@
    "z-index": "auto",
    "text-transform": "none",
    "text-decoration": "none",
-   "opacity": "0.802431",
+   "opacity": "1",
    "border": "0px none rgb(37, 37, 37)",
    "object-fit": "fill"
   }
@@ -17072,10 +17072,10 @@
   "tag": "div",
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in elementor-ken-burns--active",
   "rect": {
-   "x": -1,
-   "y": 66,
-   "w": 393,
-   "h": 1019
+   "x": -12,
+   "y": 39,
+   "w": 414,
+   "h": 1073
   },
   "visible": true,
   "style": {
@@ -39523,14 +39523,14 @@
  {
   "i": 747,
   "tag": "div",
-  "cls": "elementor-element elementor-element-340bf895 elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-340bf895 elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 54,
    "y": 6806,
    "w": 281,
    "h": 68
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -39583,7 +39583,7 @@
    "w": 281,
    "h": 68
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -39637,7 +39637,7 @@
    "w": 281,
    "h": 68
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "30px",
@@ -40849,14 +40849,14 @@
  {
   "i": 772,
   "tag": "div",
-  "cls": "elementor-element elementor-element-689b94be elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-689b94be elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 23,
    "y": 7381,
    "w": 343,
    "h": 68
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -40909,7 +40909,7 @@
    "w": 343,
    "h": 68
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -40963,7 +40963,7 @@
    "w": 343,
    "h": 68
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "30px",
@@ -42386,14 +42386,14 @@
  {
   "i": 801,
   "tag": "div",
-  "cls": "elementor-element elementor-element-28467d2e elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-28467d2e elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 23,
    "y": 8038,
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -42446,7 +42446,7 @@
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -42499,7 +42499,7 @@
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -42552,7 +42552,7 @@
    "w": 133,
    "h": 22
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -43653,14 +43653,14 @@
  {
   "i": 825,
   "tag": "div",
-  "cls": "elementor-element elementor-element-5dfac52e elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-5dfac52e elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 23,
    "y": 8301,
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -43713,7 +43713,7 @@
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -43766,7 +43766,7 @@
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -43819,7 +43819,7 @@
    "w": 114,
    "h": 22
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -45306,14 +45306,14 @@
  {
   "i": 856,
   "tag": "div",
-  "cls": "elementor-element elementor-element-6278211d elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-6278211d elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 23,
    "y": 8527,
    "w": 76,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -45366,7 +45366,7 @@
    "w": 76,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -45419,7 +45419,7 @@
    "w": 76,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -45472,7 +45472,7 @@
    "w": 76,
    "h": 22
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",

@@ -4,7 +4,7 @@
   "tag": "html",
   "rect": {
    "x": 0,
-   "y": -114,
+   "y": -143,
    "w": 1440,
    "h": 5311
   },
@@ -4468,7 +4468,7 @@
   "cls": "home wp-singular page-template-default page page-id-23 wp-custom-logo wp-embed-responsive wp-theme-blocksy elementor-default elementor-kit-26 elementor-page elementor-page-23 ct-elementor-default-template e--ua-blink e--ua-webkit",
   "rect": {
    "x": 0,
-   "y": -114,
+   "y": -143,
    "w": 1440,
    "h": 5311
   },
@@ -4575,7 +4575,7 @@
   "text": "Skip to content",
   "rect": {
    "x": -1,
-   "y": -200115,
+   "y": -200144,
    "w": 1,
    "h": 1
   },
@@ -4628,7 +4628,7 @@
   "cls": "ct-drawer-canvas",
   "rect": {
    "x": 0,
-   "y": -114,
+   "y": -143,
    "w": 1440,
    "h": 0
   },
@@ -10447,7 +10447,7 @@
   "id": "main-container",
   "rect": {
    "x": 0,
-   "y": -114,
+   "y": -143,
    "w": 1440,
    "h": 5311
   },
@@ -10501,7 +10501,7 @@
   "cls": "ct-header",
   "rect": {
    "x": 0,
-   "y": -114,
+   "y": -143,
    "w": 1440,
    "h": 90
   },
@@ -10553,7 +10553,7 @@
   "tag": "div",
   "rect": {
    "x": 0,
-   "y": -114,
+   "y": -143,
    "w": 1440,
    "h": 90
   },
@@ -10606,7 +10606,7 @@
   "cls": "ct-sticky-container",
   "rect": {
    "x": 0,
-   "y": -114,
+   "y": -143,
    "w": 1440,
    "h": 90
   },
@@ -16064,7 +16064,7 @@
   "cls": "site-main hfeed",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 4230
   },
@@ -16117,7 +16117,7 @@
   "cls": "ct-container-full",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 4230
   },
@@ -16171,7 +16171,7 @@
   "cls": "post-23 page type-page status-publish hentry",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 4230
   },
@@ -16224,7 +16224,7 @@
   "cls": "entry-content is-layout-constrained",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 4230
   },
@@ -16277,7 +16277,7 @@
   "cls": "elementor elementor-23",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 4230
   },
@@ -16330,7 +16330,7 @@
   "cls": "elementor-element elementor-element-2bedf087 e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16383,7 +16383,7 @@
   "cls": "elementor-background-slideshow swiper swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-rtl swiper-watch-progress",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16433,11 +16433,11 @@
  {
   "i": 311,
   "tag": "div",
-  "id": "swiper-wrapper-5b447b10e1f2e73d10",
+  "id": "swiper-wrapper-67f76456f91062dc5",
   "cls": "swiper-wrapper",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16487,10 +16487,10 @@
  {
   "i": 312,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16543,7 +16543,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16593,10 +16593,10 @@
  {
   "i": 314,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16649,7 +16649,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16699,10 +16699,10 @@
  {
   "i": 316,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16755,7 +16755,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16805,10 +16805,10 @@
  {
   "i": 318,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-prev",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16861,7 +16861,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -16911,116 +16911,10 @@
  {
   "i": 320,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-visible swiper-slide-active",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-prev",
   "rect": {
    "x": 0,
-   "y": -24,
-   "w": 1440,
-   "h": 771
-  },
-  "visible": true,
-  "style": {
-   "font-family": "Inter, sans-serif",
-   "font-size": "20px",
-   "font-weight": "400",
-   "line-height": "33px",
-   "letter-spacing": "normal",
-   "color": "rgb(37, 37, 37)",
-   "background-color": "rgba(0, 0, 0, 0)",
-   "background-image": "none",
-   "text-align": "start",
-   "margin-top": "0px",
-   "margin-right": "0px",
-   "margin-bottom": "0px",
-   "margin-left": "0px",
-   "padding-top": "0px",
-   "padding-right": "0px",
-   "padding-bottom": "0px",
-   "padding-left": "0px",
-   "display": "block",
-   "flex-direction": "row",
-   "justify-content": "normal",
-   "align-items": "normal",
-   "gap": "normal",
-   "grid-template-columns": "none",
-   "max-width": "none",
-   "width": "1440px",
-   "height": "770.594px",
-   "border-radius": "0px",
-   "box-shadow": "none",
-   "position": "relative",
-   "top": "0px",
-   "left": "0px",
-   "right": "0px",
-   "bottom": "0px",
-   "z-index": "auto",
-   "text-transform": "none",
-   "text-decoration": "none",
-   "opacity": "1",
-   "border": "0px none rgb(37, 37, 37)",
-   "object-fit": "fill"
-  }
- },
- {
-  "i": 321,
-  "tag": "div",
-  "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in elementor-ken-burns--active",
-  "rect": {
-   "x": -42,
-   "y": -46,
-   "w": 1524,
-   "h": 815
-  },
-  "visible": true,
-  "style": {
-   "font-family": "Inter, sans-serif",
-   "font-size": "20px",
-   "font-weight": "400",
-   "line-height": "33px",
-   "letter-spacing": "normal",
-   "color": "rgb(37, 37, 37)",
-   "background-color": "rgba(0, 0, 0, 0)",
-   "background-image": "url(\"https://logosbz.com/wp-content/uploads/2025/02/Logos-BZ-Project-Hero-1.webp\")",
-   "text-align": "start",
-   "margin-top": "0px",
-   "margin-right": "0px",
-   "margin-bottom": "0px",
-   "margin-left": "0px",
-   "padding-top": "0px",
-   "padding-right": "0px",
-   "padding-bottom": "0px",
-   "padding-left": "0px",
-   "display": "block",
-   "flex-direction": "row",
-   "justify-content": "normal",
-   "align-items": "normal",
-   "gap": "normal",
-   "grid-template-columns": "none",
-   "max-width": "none",
-   "width": "1440px",
-   "height": "770.594px",
-   "border-radius": "0px",
-   "box-shadow": "none",
-   "position": "static",
-   "top": "auto",
-   "left": "auto",
-   "right": "auto",
-   "bottom": "auto",
-   "z-index": "auto",
-   "text-transform": "none",
-   "text-decoration": "none",
-   "opacity": "1",
-   "border": "0px none rgb(37, 37, 37)",
-   "object-fit": "fill"
-  }
- },
- {
-  "i": 322,
-  "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-next",
-  "rect": {
-   "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17068,14 +16962,120 @@
   }
  },
  {
-  "i": 323,
+  "i": 321,
   "tag": "div",
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
+   "x": -18,
+   "y": -63,
+   "w": 1476,
+   "h": 790
+  },
+  "visible": true,
+  "style": {
+   "font-family": "Inter, sans-serif",
+   "font-size": "20px",
+   "font-weight": "400",
+   "line-height": "33px",
+   "letter-spacing": "normal",
+   "color": "rgb(37, 37, 37)",
+   "background-color": "rgba(0, 0, 0, 0)",
+   "background-image": "url(\"https://logosbz.com/wp-content/uploads/2025/02/Logos-BZ-Project-Hero-1.webp\")",
+   "text-align": "start",
+   "margin-top": "0px",
+   "margin-right": "0px",
+   "margin-bottom": "0px",
+   "margin-left": "0px",
+   "padding-top": "0px",
+   "padding-right": "0px",
+   "padding-bottom": "0px",
+   "padding-left": "0px",
+   "display": "block",
+   "flex-direction": "row",
+   "justify-content": "normal",
+   "align-items": "normal",
+   "gap": "normal",
+   "grid-template-columns": "none",
+   "max-width": "none",
+   "width": "1440px",
+   "height": "770.594px",
+   "border-radius": "0px",
+   "box-shadow": "none",
+   "position": "static",
+   "top": "auto",
+   "left": "auto",
+   "right": "auto",
+   "bottom": "auto",
+   "z-index": "auto",
+   "text-transform": "none",
+   "text-decoration": "none",
+   "opacity": "1",
+   "border": "0px none rgb(37, 37, 37)",
+   "object-fit": "fill"
+  }
+ },
+ {
+  "i": 322,
+  "tag": "div",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-visible swiper-slide-active",
+  "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
+  },
+  "visible": true,
+  "style": {
+   "font-family": "Inter, sans-serif",
+   "font-size": "20px",
+   "font-weight": "400",
+   "line-height": "33px",
+   "letter-spacing": "normal",
+   "color": "rgb(37, 37, 37)",
+   "background-color": "rgba(0, 0, 0, 0)",
+   "background-image": "none",
+   "text-align": "start",
+   "margin-top": "0px",
+   "margin-right": "0px",
+   "margin-bottom": "0px",
+   "margin-left": "0px",
+   "padding-top": "0px",
+   "padding-right": "0px",
+   "padding-bottom": "0px",
+   "padding-left": "0px",
+   "display": "block",
+   "flex-direction": "row",
+   "justify-content": "normal",
+   "align-items": "normal",
+   "gap": "normal",
+   "grid-template-columns": "none",
+   "max-width": "none",
+   "width": "1440px",
+   "height": "770.594px",
+   "border-radius": "0px",
+   "box-shadow": "none",
+   "position": "relative",
+   "top": "0px",
+   "left": "0px",
+   "right": "0px",
+   "bottom": "0px",
+   "z-index": "auto",
+   "text-transform": "none",
+   "text-decoration": "none",
+   "opacity": "1",
+   "border": "0px none rgb(37, 37, 37)",
+   "object-fit": "fill"
+  }
+ },
+ {
+  "i": 323,
+  "tag": "div",
+  "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in elementor-ken-burns--active",
+  "rect": {
+   "x": -18,
+   "y": -63,
+   "w": 1476,
+   "h": 790
   },
   "visible": true,
   "style": {
@@ -17123,10 +17123,10 @@
  {
   "i": 324,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-next",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17179,7 +17179,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17229,10 +17229,10 @@
  {
   "i": 326,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate-prev",
+  "cls": "elementor-background-slideshow__slide swiper-slide",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17285,7 +17285,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17335,10 +17335,10 @@
  {
   "i": 328,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17391,7 +17391,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17441,10 +17441,10 @@
  {
   "i": 330,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17497,7 +17497,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17547,10 +17547,10 @@
  {
   "i": 332,
   "tag": "div",
-  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate",
+  "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17603,7 +17603,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17656,7 +17656,7 @@
   "cls": "elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17709,7 +17709,7 @@
   "cls": "elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 1440,
    "h": 771
   },
@@ -17762,7 +17762,7 @@
   "cls": "swiper-notification",
   "rect": {
    "x": 0,
-   "y": -24,
+   "y": -53,
    "w": 0,
    "h": 0
   },
@@ -17815,7 +17815,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": -24,
+   "y": -53,
    "w": 1290,
    "h": 771
   },
@@ -17868,7 +17868,7 @@
   "cls": "elementor-element elementor-element-366d632 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 76,
+   "y": 47,
    "w": 774,
    "h": 571
   },
@@ -17921,7 +17921,7 @@
   "cls": "elementor-element elementor-element-79ac63c6 elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 75,
-   "y": 76,
+   "y": 47,
    "w": 774,
    "h": 138
   },
@@ -17974,7 +17974,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 76,
+   "y": 47,
    "w": 774,
    "h": 138
   },
@@ -18027,7 +18027,7 @@
   "cls": "elementor-heading-title elementor-size-default",
   "rect": {
    "x": 75,
-   "y": 76,
+   "y": 47,
    "w": 754,
    "h": 138
   },
@@ -18079,7 +18079,7 @@
   "tag": "br",
   "rect": {
    "x": 804,
-   "y": 68,
+   "y": 39,
    "w": 0,
    "h": 84
   },
@@ -18132,7 +18132,7 @@
   "cls": "elementor-element elementor-element-7ab15fea elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 75,
-   "y": 234,
+   "y": 205,
    "w": 774,
    "h": 315
   },
@@ -18185,7 +18185,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 234,
+   "y": 205,
    "w": 774,
    "h": 315
   },
@@ -18238,7 +18238,7 @@
   "text": "At Lógos BZ, every day, we’re driven to improve the outcomes of patients and hea",
   "rect": {
    "x": 75,
-   "y": 234,
+   "y": 205,
    "w": 774,
    "h": 165
   },
@@ -18291,7 +18291,7 @@
   "cls": "elementor-element elementor-element-71f6e85 elementor-widget elementor-widget-button",
   "rect": {
    "x": 75,
-   "y": 569,
+   "y": 540,
    "w": 774,
    "h": 78
   },
@@ -18344,7 +18344,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 589,
+   "y": 560,
    "w": 774,
    "h": 58
   },
@@ -18397,7 +18397,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 75,
-   "y": 589,
+   "y": 560,
    "w": 774,
    "h": 58
   },
@@ -18450,7 +18450,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 75,
-   "y": 589,
+   "y": 560,
    "w": 240,
    "h": 58
   },
@@ -18503,7 +18503,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 115,
-   "y": 609,
+   "y": 580,
    "w": 160,
    "h": 18
   },
@@ -18556,7 +18556,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 257,
-   "y": 609,
+   "y": 580,
    "w": 18,
    "h": 18
   },
@@ -18608,7 +18608,7 @@
   "tag": "svg",
   "rect": {
    "x": 257,
-   "y": 609,
+   "y": 580,
    "w": 18,
    "h": 18
   },
@@ -18660,7 +18660,7 @@
   "tag": "path",
   "rect": {
    "x": 262,
-   "y": 612,
+   "y": 583,
    "w": 7,
    "h": 11
   },
@@ -18714,7 +18714,7 @@
   "text": "Discover Logos",
   "rect": {
    "x": 115,
-   "y": 609,
+   "y": 580,
    "w": 132,
    "h": 18
   },
@@ -18767,7 +18767,7 @@
   "cls": "elementor-element elementor-element-98b924f e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 747,
+   "y": 718,
    "w": 1440,
    "h": 501
   },
@@ -18820,7 +18820,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 747,
+   "y": 718,
    "w": 1290,
    "h": 501
   },
@@ -18873,7 +18873,7 @@
   "cls": "elementor-element elementor-element-3955c73b e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 847,
+   "y": 818,
    "w": 1290,
    "h": 301
   },
@@ -18926,7 +18926,7 @@
   "cls": "elementor-element elementor-element-50e53700 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 847,
+   "y": 818,
    "w": 485,
    "h": 301
   },
@@ -18979,7 +18979,7 @@
   "cls": "elementor-element elementor-element-20629422 elementor-widget elementor-widget-heading",
   "rect": {
    "x": 75,
-   "y": 847,
+   "y": 818,
    "w": 485,
    "h": 14
   },
@@ -19032,7 +19032,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 847,
+   "y": 818,
    "w": 485,
    "h": 14
   },
@@ -19086,7 +19086,7 @@
   "text": "what we do",
   "rect": {
    "x": 75,
-   "y": 847,
+   "y": 818,
    "w": 485,
    "h": 14
   },
@@ -19139,7 +19139,7 @@
   "cls": "elementor-element elementor-element-18ad34dd elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 75,
-   "y": 881,
+   "y": 852,
    "w": 485,
    "h": 250
   },
@@ -19192,7 +19192,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 881,
+   "y": 852,
    "w": 485,
    "h": 250
   },
@@ -19246,7 +19246,7 @@
   "text": "Designing Healthcare Spaces that promote Patient Wellbeing, Staff Efficiency and",
   "rect": {
    "x": 75,
-   "y": 881,
+   "y": 852,
    "w": 485,
    "h": 250
   },
@@ -19299,7 +19299,7 @@
   "cls": "elementor-element elementor-element-2af4490a e-con-full e-flex e-con e-child",
   "rect": {
    "x": 637,
-   "y": 847,
+   "y": 818,
    "w": 728,
    "h": 301
   },
@@ -19352,7 +19352,7 @@
   "cls": "elementor-element elementor-element-153e1e53 elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 637,
-   "y": 847,
+   "y": 818,
    "w": 728,
    "h": 228
   },
@@ -19405,7 +19405,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 637,
-   "y": 847,
+   "y": 818,
    "w": 728,
    "h": 228
   },
@@ -19458,7 +19458,7 @@
   "text": "Our design expertise and advisory services touch the full spectrum of the health",
   "rect": {
    "x": 637,
-   "y": 847,
+   "y": 818,
    "w": 728,
    "h": 132
   },
@@ -19511,7 +19511,7 @@
   "text": "No healthcare project is too technical for our experienced team of healthcare ar",
   "rect": {
    "x": 637,
-   "y": 1009,
+   "y": 980,
    "w": 728,
    "h": 66
   },
@@ -19564,7 +19564,7 @@
   "cls": "elementor-element elementor-element-6b1690c elementor-align-left elementor-widget elementor-widget-button",
   "rect": {
    "x": 637,
-   "y": 1095,
+   "y": 1066,
    "w": 160,
    "h": 53
   },
@@ -19617,7 +19617,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 637,
-   "y": 1115,
+   "y": 1086,
    "w": 160,
    "h": 53
   },
@@ -19670,7 +19670,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 637,
-   "y": 1115,
+   "y": 1086,
    "w": 160,
    "h": 33
   },
@@ -19723,7 +19723,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 637,
-   "y": 1123,
+   "y": 1094,
    "w": 160,
    "h": 18
   },
@@ -19776,7 +19776,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 637,
-   "y": 1123,
+   "y": 1094,
    "w": 160,
    "h": 18
   },
@@ -19829,7 +19829,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 779,
-   "y": 1123,
+   "y": 1094,
    "w": 18,
    "h": 18
   },
@@ -19881,7 +19881,7 @@
   "tag": "svg",
   "rect": {
    "x": 779,
-   "y": 1123,
+   "y": 1094,
    "w": 18,
    "h": 18
   },
@@ -19933,7 +19933,7 @@
   "tag": "path",
   "rect": {
    "x": 785,
-   "y": 1126,
+   "y": 1097,
    "w": 7,
    "h": 11
   },
@@ -19987,7 +19987,7 @@
   "text": "discover Lógos",
   "rect": {
    "x": 637,
-   "y": 1123,
+   "y": 1094,
    "w": 132,
    "h": 18
   },
@@ -20040,7 +20040,7 @@
   "cls": "elementor-element elementor-element-6996e4a7 e-con-full e-flex e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 1248,
+   "y": 1219,
    "w": 1440,
    "h": 748
   },
@@ -20093,7 +20093,7 @@
   "cls": "elementor-element elementor-element-10b08e5c e-flex e-con-boxed e-con e-child",
   "rect": {
    "x": 0,
-   "y": 1349,
+   "y": 1320,
    "w": 1440,
    "h": 494
   },
@@ -20146,7 +20146,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 1349,
+   "y": 1320,
    "w": 1290,
    "h": 494
   },
@@ -20199,7 +20199,7 @@
   "cls": "elementor-element elementor-element-7a706cbe e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 1349,
+   "y": 1320,
    "w": 1290,
    "h": 469
   },
@@ -20252,7 +20252,7 @@
   "cls": "elementor-element elementor-element-7eeff5d0 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 1349,
+   "y": 1320,
    "w": 516,
    "h": 84
   },
@@ -20305,7 +20305,7 @@
   "cls": "elementor-element elementor-element-443f12f5 elementor-widget elementor-widget-heading",
   "rect": {
    "x": 75,
-   "y": 1349,
+   "y": 1320,
    "w": 516,
    "h": 14
   },
@@ -20358,7 +20358,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 1349,
+   "y": 1320,
    "w": 516,
    "h": 14
   },
@@ -20412,7 +20412,7 @@
   "text": "featured articles",
   "rect": {
    "x": 75,
-   "y": 1349,
+   "y": 1320,
    "w": 516,
    "h": 14
   },
@@ -20465,7 +20465,7 @@
   "cls": "elementor-element elementor-element-35c20897 elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 75,
-   "y": 1383,
+   "y": 1354,
    "w": 516,
    "h": 50
   },
@@ -20518,7 +20518,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 72,
-   "y": 1383,
+   "y": 1354,
    "w": 519,
    "h": 50
   },
@@ -20572,7 +20572,7 @@
   "text": "Latest News & Press",
   "rect": {
    "x": 72,
-   "y": 1383,
+   "y": 1354,
    "w": 519,
    "h": 50
   },
@@ -20625,7 +20625,7 @@
   "cls": "elementor-element elementor-element-36fb9158 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 1453,
+   "y": 1424,
    "w": 1290,
    "h": 365
   },
@@ -20678,7 +20678,7 @@
   "cls": "elementor-element elementor-element-d64e675 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 1290,
    "h": 340
   },
@@ -20731,7 +20731,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 1290,
    "h": 340
   },
@@ -20784,7 +20784,7 @@
   "cls": "elementor-loop-container elementor-grid",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 1290,
    "h": 340
   },
@@ -20945,7 +20945,7 @@
   "cls": "elementor elementor-1414 e-loop-item e-loop-item-221 post-221 post type-post status-publish format-standard has-post-thumbnail hentry category-press category-events category-news",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -20998,7 +20998,7 @@
   "cls": "elementor-element elementor-element-be48c80 e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21051,7 +21051,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21104,7 +21104,7 @@
   "cls": "elementor-element elementor-element-e676db3 elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21157,7 +21157,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21210,7 +21210,7 @@
   "cls": "elementor-flip-box",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21263,7 +21263,7 @@
   "cls": "elementor-flip-box__layer elementor-flip-box__front",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21316,7 +21316,7 @@
   "cls": "elementor-flip-box__layer__overlay",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21369,7 +21369,7 @@
   "cls": "elementor-flip-box__layer__inner",
   "rect": {
    "x": 105,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 129
   },
@@ -21423,7 +21423,7 @@
   "text": "Lógos Makes Strategic Hire in Jay Pelton to Lead Architecture Practice",
   "rect": {
    "x": 105,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 84
   },
@@ -21477,7 +21477,7 @@
   "text": "January 15, 2025",
   "rect": {
    "x": 105,
-   "y": 1612,
+   "y": 1583,
    "w": 350,
    "h": 25
   },
@@ -21530,7 +21530,7 @@
   "cls": "elementor-flip-box__layer elementor-flip-box__back",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21583,7 +21583,7 @@
   "cls": "elementor-flip-box__layer__overlay",
   "rect": {
    "x": 75,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21636,7 +21636,7 @@
   "cls": "elementor-flip-box__layer__inner",
   "rect": {
    "x": 105,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 248
   },
@@ -21690,7 +21690,7 @@
   "text": "Lógos Makes Strategic Hire in Jay Pelton to Lead Architecture Practice",
   "rect": {
    "x": 105,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 84
   },
@@ -21744,7 +21744,7 @@
   "text": "Lógos is announcing a pivotal hire, sparking growth in the company’s Architectur",
   "rect": {
    "x": 105,
-   "y": 1612,
+   "y": 1583,
    "w": 350,
    "h": 80
   },
@@ -21798,7 +21798,7 @@
   "text": "Read More",
   "rect": {
    "x": 105,
-   "y": 1717,
+   "y": 1688,
    "w": 125,
    "h": 39
   },
@@ -21905,7 +21905,7 @@
   "cls": "elementor elementor-1414 e-loop-item e-loop-item-247 post-247 post type-post status-publish format-standard has-post-thumbnail hentry category-news",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -21958,7 +21958,7 @@
   "cls": "elementor-element elementor-element-be48c80 e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22011,7 +22011,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22064,7 +22064,7 @@
   "cls": "elementor-element elementor-element-e676db3 elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22117,7 +22117,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22170,7 +22170,7 @@
   "cls": "elementor-flip-box",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22223,7 +22223,7 @@
   "cls": "elementor-flip-box__layer elementor-flip-box__front",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22276,7 +22276,7 @@
   "cls": "elementor-flip-box__layer__overlay",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22329,7 +22329,7 @@
   "cls": "elementor-flip-box__layer__inner",
   "rect": {
    "x": 545,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 129
   },
@@ -22383,7 +22383,7 @@
   "text": "The Future of Engineering: Trends Shaping the Next Decade",
   "rect": {
    "x": 545,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 84
   },
@@ -22437,7 +22437,7 @@
   "text": "January 5, 2025",
   "rect": {
    "x": 545,
-   "y": 1612,
+   "y": 1583,
    "w": 350,
    "h": 25
   },
@@ -22490,7 +22490,7 @@
   "cls": "elementor-flip-box__layer elementor-flip-box__back",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22543,7 +22543,7 @@
   "cls": "elementor-flip-box__layer__overlay",
   "rect": {
    "x": 515,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22596,7 +22596,7 @@
   "cls": "elementor-flip-box__layer__inner",
   "rect": {
    "x": 545,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 228
   },
@@ -22650,7 +22650,7 @@
   "text": "The Future of Engineering: Trends Shaping the Next Decade",
   "rect": {
    "x": 545,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 84
   },
@@ -22704,7 +22704,7 @@
   "text": "As we look ahead to the next decade, engineering is poised for significant trans",
   "rect": {
    "x": 545,
-   "y": 1612,
+   "y": 1583,
    "w": 350,
    "h": 60
   },
@@ -22758,7 +22758,7 @@
   "text": "Read More",
   "rect": {
    "x": 545,
-   "y": 1697,
+   "y": 1668,
    "w": 125,
    "h": 39
   },
@@ -22865,7 +22865,7 @@
   "cls": "elementor elementor-1414 e-loop-item e-loop-item-249 post-249 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22918,7 +22918,7 @@
   "cls": "elementor-element elementor-element-be48c80 e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -22971,7 +22971,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -23024,7 +23024,7 @@
   "cls": "elementor-element elementor-element-e676db3 elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -23077,7 +23077,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -23130,7 +23130,7 @@
   "cls": "elementor-flip-box",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -23183,7 +23183,7 @@
   "cls": "elementor-flip-box__layer elementor-flip-box__front",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -23236,7 +23236,7 @@
   "cls": "elementor-flip-box__layer__overlay",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -23289,7 +23289,7 @@
   "cls": "elementor-flip-box__layer__inner",
   "rect": {
    "x": 985,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 129
   },
@@ -23343,7 +23343,7 @@
   "text": "How Emerging Technologies Are Transforming Engineering Design",
   "rect": {
    "x": 985,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 84
   },
@@ -23397,7 +23397,7 @@
   "text": "January 3, 2025",
   "rect": {
    "x": 985,
-   "y": 1612,
+   "y": 1583,
    "w": 350,
    "h": 25
   },
@@ -23450,7 +23450,7 @@
   "cls": "elementor-flip-box__layer elementor-flip-box__back",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -23503,7 +23503,7 @@
   "cls": "elementor-flip-box__layer__overlay",
   "rect": {
    "x": 955,
-   "y": 1478,
+   "y": 1449,
    "w": 410,
    "h": 340
   },
@@ -23556,7 +23556,7 @@
   "cls": "elementor-flip-box__layer__inner",
   "rect": {
    "x": 985,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 228
   },
@@ -23610,7 +23610,7 @@
   "text": "How Emerging Technologies Are Transforming Engineering Design",
   "rect": {
    "x": 985,
-   "y": 1508,
+   "y": 1479,
    "w": 350,
    "h": 84
   },
@@ -23664,7 +23664,7 @@
   "text": "Emerging technologies are reshaping the way engineers approach design, offering ",
   "rect": {
    "x": 985,
-   "y": 1612,
+   "y": 1583,
    "w": 350,
    "h": 60
   },
@@ -23718,7 +23718,7 @@
   "text": "Read More",
   "rect": {
    "x": 985,
-   "y": 1697,
+   "y": 1668,
    "w": 125,
    "h": 39
   },
@@ -23771,7 +23771,7 @@
   "cls": "elementor-element elementor-element-4aa4e9e5 e-flex e-con-boxed e-con e-child",
   "rect": {
    "x": 0,
-   "y": 1863,
+   "y": 1834,
    "w": 1440,
    "h": 83
   },
@@ -23824,7 +23824,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 1863,
+   "y": 1834,
    "w": 1290,
    "h": 83
   },
@@ -23877,7 +23877,7 @@
   "cls": "elementor-element elementor-element-bd6884c elementor-align-left elementor-widget elementor-widget-button",
   "rect": {
    "x": 75,
-   "y": 1863,
+   "y": 1834,
    "w": 148,
    "h": 33
   },
@@ -23930,7 +23930,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 1863,
+   "y": 1834,
    "w": 148,
    "h": 33
   },
@@ -23983,7 +23983,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 75,
-   "y": 1863,
+   "y": 1834,
    "w": 148,
    "h": 33
   },
@@ -24036,7 +24036,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 75,
-   "y": 1871,
+   "y": 1842,
    "w": 148,
    "h": 18
   },
@@ -24089,7 +24089,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 75,
-   "y": 1871,
+   "y": 1842,
    "w": 148,
    "h": 18
   },
@@ -24142,7 +24142,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 205,
-   "y": 1871,
+   "y": 1842,
    "w": 18,
    "h": 18
   },
@@ -24194,7 +24194,7 @@
   "tag": "svg",
   "rect": {
    "x": 205,
-   "y": 1871,
+   "y": 1842,
    "w": 18,
    "h": 18
   },
@@ -24246,7 +24246,7 @@
   "tag": "path",
   "rect": {
    "x": 210,
-   "y": 1874,
+   "y": 1845,
    "w": 7,
    "h": 11
   },
@@ -24300,7 +24300,7 @@
   "text": "view all news",
   "rect": {
    "x": 75,
-   "y": 1871,
+   "y": 1842,
    "w": 120,
    "h": 18
   },
@@ -24353,7 +24353,7 @@
   "cls": "elementor-element elementor-element-2034edae e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 1996,
+   "y": 1967,
    "w": 1440,
    "h": 311
   },
@@ -24406,7 +24406,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 1996,
+   "y": 1967,
    "w": 1290,
    "h": 311
   },
@@ -24459,7 +24459,7 @@
   "cls": "elementor-element elementor-element-4b57e801 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 333,
-   "y": 2096,
+   "y": 2067,
    "w": 774,
    "h": 186
   },
@@ -24512,7 +24512,7 @@
   "cls": "elementor-element elementor-element-1e1b69ed e-con-full e-flex e-con e-child",
   "rect": {
    "x": 333,
-   "y": 2096,
+   "y": 2067,
    "w": 774,
    "h": 161
   },
@@ -24565,7 +24565,7 @@
   "cls": "elementor-element elementor-element-3b9112dc elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 605,
-   "y": 2096,
+   "y": 2067,
    "w": 231,
    "h": 50
   },
@@ -24618,7 +24618,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 605,
-   "y": 2096,
+   "y": 2067,
    "w": 231,
    "h": 50
   },
@@ -24672,7 +24672,7 @@
   "text": "Our Services",
   "rect": {
    "x": 605,
-   "y": 2096,
+   "y": 2067,
    "w": 231,
    "h": 50
   },
@@ -24725,7 +24725,7 @@
   "cls": "elementor-element elementor-element-4d98f556 elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 333,
-   "y": 2166,
+   "y": 2137,
    "w": 774,
    "h": 66
   },
@@ -24778,7 +24778,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 333,
-   "y": 2166,
+   "y": 2137,
    "w": 774,
    "h": 66
   },
@@ -24831,7 +24831,7 @@
   "text": "We offer innovative solutions in architecture, real estate development, and advi",
   "rect": {
    "x": 333,
-   "y": 2166,
+   "y": 2137,
    "w": 774,
    "h": 66
   },
@@ -24884,7 +24884,7 @@
   "cls": "elementor-element elementor-element-5df23499 e-grid e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 2307,
+   "y": 2278,
    "w": 1440,
    "h": 427
   },
@@ -24937,7 +24937,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 2307,
+   "y": 2278,
    "w": 1290,
    "h": 427
   },
@@ -24990,7 +24990,7 @@
   "cls": "elementor-element elementor-element-1c71a777 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 2307,
+   "y": 2278,
    "w": 410,
    "h": 427
   },
@@ -25043,7 +25043,7 @@
   "cls": "elementor-element elementor-element-45e3cb9f elementor-view-default elementor-widget elementor-widget-icon",
   "rect": {
    "x": 255,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -25096,7 +25096,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 255,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -25149,7 +25149,7 @@
   "cls": "elementor-icon-wrapper",
   "rect": {
    "x": 255,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -25202,7 +25202,7 @@
   "cls": "elementor-icon",
   "rect": {
    "x": 255,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 50
   },
@@ -25255,7 +25255,7 @@
   "id": "Real-Estate-Dimensions-Map--Streamline-Ultimate",
   "rect": {
    "x": 255,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 50
   },
@@ -25465,7 +25465,7 @@
   "tag": "path",
   "rect": {
    "x": 257,
-   "y": 2342,
+   "y": 2313,
    "w": 46,
    "h": 45
   },
@@ -25517,7 +25517,7 @@
   "tag": "path",
   "rect": {
    "x": 271,
-   "y": 2342,
+   "y": 2313,
    "w": 18,
    "h": 45
   },
@@ -25569,7 +25569,7 @@
   "tag": "path",
   "rect": {
    "x": 257,
-   "y": 2342,
+   "y": 2313,
    "w": 46,
    "h": 45
   },
@@ -25621,7 +25621,7 @@
   "tag": "path",
   "rect": {
    "x": 261,
-   "y": 2347,
+   "y": 2318,
    "w": 38,
    "h": 36
   },
@@ -25673,7 +25673,7 @@
   "tag": "path",
   "rect": {
    "x": 271,
-   "y": 2347,
+   "y": 2318,
    "w": 18,
    "h": 36
   },
@@ -25725,7 +25725,7 @@
   "tag": "path",
   "rect": {
    "x": 261,
-   "y": 2347,
+   "y": 2318,
    "w": 38,
    "h": 36
   },
@@ -25777,7 +25777,7 @@
   "tag": "path",
   "rect": {
    "x": 285,
-   "y": 2348,
+   "y": 2319,
    "w": 0,
    "h": 11
   },
@@ -25829,7 +25829,7 @@
   "tag": "path",
   "rect": {
    "x": 261,
-   "y": 2369,
+   "y": 2340,
    "w": 18,
    "h": 11
   },
@@ -25881,7 +25881,7 @@
   "tag": "path",
   "rect": {
    "x": 285,
-   "y": 2367,
+   "y": 2338,
    "w": 14,
    "h": 11
   },
@@ -25933,7 +25933,7 @@
   "tag": "path",
   "rect": {
    "x": 261,
-   "y": 2357,
+   "y": 2328,
    "w": 18,
    "h": 4
   },
@@ -25985,7 +25985,7 @@
   "tag": "path",
   "rect": {
    "x": 265,
-   "y": 2355,
+   "y": 2326,
    "w": 0,
    "h": 4
   },
@@ -26037,7 +26037,7 @@
   "tag": "path",
   "rect": {
    "x": 273,
-   "y": 2357,
+   "y": 2328,
    "w": 0,
    "h": 3
   },
@@ -26089,7 +26089,7 @@
   "tag": "path",
   "rect": {
    "x": 269,
-   "y": 2357,
+   "y": 2328,
    "w": 0,
    "h": 3
   },
@@ -26142,7 +26142,7 @@
   "cls": "elementor-element elementor-element-69d37d6 animated-slow elementor-widget elementor-widget-heading animated fadeIn",
   "rect": {
    "x": 195,
-   "y": 2420,
+   "y": 2391,
    "w": 171,
    "h": 56
   },
@@ -26195,7 +26195,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 195,
-   "y": 2420,
+   "y": 2391,
    "w": 171,
    "h": 56
   },
@@ -26248,7 +26248,7 @@
   "cls": "elementor-heading-title elementor-size-default",
   "rect": {
    "x": 195,
-   "y": 2420,
+   "y": 2391,
    "w": 171,
    "h": 56
   },
@@ -26300,7 +26300,7 @@
   "tag": "br",
   "rect": {
    "x": 366,
-   "y": 2419,
+   "y": 2390,
    "w": 0,
    "h": 29
   },
@@ -26353,7 +26353,7 @@
   "cls": "elementor-element elementor-element-3147c9f5 elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 108,
-   "y": 2496,
+   "y": 2467,
    "w": 344,
    "h": 132
   },
@@ -26407,7 +26407,7 @@
   "text": "Specializing in healthcare architecture, engineering, planning and interior desi",
   "rect": {
    "x": 108,
-   "y": 2496,
+   "y": 2467,
    "w": 344,
    "h": 132
   },
@@ -26460,7 +26460,7 @@
   "cls": "elementor-element elementor-element-3b49390 elementor-align-center elementor-widget elementor-widget-button",
   "rect": {
    "x": 205,
-   "y": 2648,
+   "y": 2619,
    "w": 151,
    "h": 53
   },
@@ -26513,7 +26513,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 205,
-   "y": 2668,
+   "y": 2639,
    "w": 151,
    "h": 53
   },
@@ -26566,7 +26566,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 205,
-   "y": 2668,
+   "y": 2639,
    "w": 151,
    "h": 33
   },
@@ -26619,7 +26619,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 205,
-   "y": 2676,
+   "y": 2647,
    "w": 151,
    "h": 18
   },
@@ -26672,7 +26672,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 205,
-   "y": 2676,
+   "y": 2647,
    "w": 151,
    "h": 18
   },
@@ -26725,7 +26725,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 338,
-   "y": 2676,
+   "y": 2647,
    "w": 18,
    "h": 18
   },
@@ -26777,7 +26777,7 @@
   "tag": "svg",
   "rect": {
    "x": 338,
-   "y": 2676,
+   "y": 2647,
    "w": 18,
    "h": 18
   },
@@ -26829,7 +26829,7 @@
   "tag": "path",
   "rect": {
    "x": 343,
-   "y": 2679,
+   "y": 2650,
    "w": 7,
    "h": 11
   },
@@ -26883,7 +26883,7 @@
   "text": "discover more",
   "rect": {
    "x": 205,
-   "y": 2676,
+   "y": 2647,
    "w": 123,
    "h": 18
   },
@@ -26936,7 +26936,7 @@
   "cls": "elementor-element elementor-element-466dd7c1 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 515,
-   "y": 2307,
+   "y": 2278,
    "w": 410,
    "h": 427
   },
@@ -26989,7 +26989,7 @@
   "cls": "elementor-element elementor-element-2a1de4dc elementor-view-default elementor-widget elementor-widget-icon",
   "rect": {
    "x": 695,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -27042,7 +27042,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 695,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -27095,7 +27095,7 @@
   "cls": "elementor-icon-wrapper",
   "rect": {
    "x": 695,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -27148,7 +27148,7 @@
   "cls": "elementor-icon",
   "rect": {
    "x": 695,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 50
   },
@@ -27201,7 +27201,7 @@
   "id": "Hospital-Building-1--Streamline-Ultimate",
   "rect": {
    "x": 695,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 50
   },
@@ -27411,7 +27411,7 @@
   "tag": "path",
   "rect": {
    "x": 697,
-   "y": 2366,
+   "y": 2337,
    "w": 46,
    "h": 22
   },
@@ -27463,7 +27463,7 @@
   "tag": "path",
   "rect": {
    "x": 697,
-   "y": 2366,
+   "y": 2337,
    "w": 46,
    "h": 7
   },
@@ -27515,7 +27515,7 @@
   "tag": "path",
   "rect": {
    "x": 709,
-   "y": 2370,
+   "y": 2341,
    "w": 0,
    "h": 18
   },
@@ -27567,7 +27567,7 @@
   "tag": "path",
   "rect": {
    "x": 697,
-   "y": 2366,
+   "y": 2337,
    "w": 46,
    "h": 22
   },
@@ -27619,7 +27619,7 @@
   "tag": "path",
   "rect": {
    "x": 731,
-   "y": 2370,
+   "y": 2341,
    "w": 0,
    "h": 18
   },
@@ -27671,7 +27671,7 @@
   "tag": "path",
   "rect": {
    "x": 701,
-   "y": 2374,
+   "y": 2345,
    "w": 4,
    "h": 0
   },
@@ -27723,7 +27723,7 @@
   "tag": "path",
   "rect": {
    "x": 701,
-   "y": 2378,
+   "y": 2349,
    "w": 4,
    "h": 0
   },
@@ -27775,7 +27775,7 @@
   "tag": "path",
   "rect": {
    "x": 701,
-   "y": 2382,
+   "y": 2353,
    "w": 4,
    "h": 0
   },
@@ -27827,7 +27827,7 @@
   "tag": "path",
   "rect": {
    "x": 735,
-   "y": 2374,
+   "y": 2345,
    "w": 4,
    "h": 0
   },
@@ -27879,7 +27879,7 @@
   "tag": "path",
   "rect": {
    "x": 735,
-   "y": 2378,
+   "y": 2349,
    "w": 4,
    "h": 0
   },
@@ -27931,7 +27931,7 @@
   "tag": "path",
   "rect": {
    "x": 735,
-   "y": 2382,
+   "y": 2353,
    "w": 4,
    "h": 0
   },
@@ -27983,7 +27983,7 @@
   "tag": "path",
   "rect": {
    "x": 713,
-   "y": 2376,
+   "y": 2347,
    "w": 2,
    "h": 0
   },
@@ -28035,7 +28035,7 @@
   "tag": "path",
   "rect": {
    "x": 713,
-   "y": 2380,
+   "y": 2351,
    "w": 2,
    "h": 0
   },
@@ -28087,7 +28087,7 @@
   "tag": "path",
   "rect": {
    "x": 719,
-   "y": 2376,
+   "y": 2347,
    "w": 2,
    "h": 0
   },
@@ -28139,7 +28139,7 @@
   "tag": "path",
   "rect": {
    "x": 719,
-   "y": 2380,
+   "y": 2351,
    "w": 2,
    "h": 0
   },
@@ -28191,7 +28191,7 @@
   "tag": "path",
   "rect": {
    "x": 725,
-   "y": 2376,
+   "y": 2347,
    "w": 2,
    "h": 0
   },
@@ -28243,7 +28243,7 @@
   "tag": "path",
   "rect": {
    "x": 725,
-   "y": 2380,
+   "y": 2351,
    "w": 2,
    "h": 0
   },
@@ -28295,7 +28295,7 @@
   "tag": "path",
   "rect": {
    "x": 717,
-   "y": 2384,
+   "y": 2355,
    "w": 6,
    "h": 4
   },
@@ -28347,7 +28347,7 @@
   "tag": "path",
   "rect": {
    "x": 707,
-   "y": 2342,
+   "y": 2313,
    "w": 26,
    "h": 26
   },
@@ -28399,7 +28399,7 @@
   "tag": "path",
   "rect": {
    "x": 707,
-   "y": 2342,
+   "y": 2313,
    "w": 22,
    "h": 22
   },
@@ -28451,7 +28451,7 @@
   "tag": "path",
   "rect": {
    "x": 713,
-   "y": 2348,
+   "y": 2319,
    "w": 14,
    "h": 14
   },
@@ -28503,7 +28503,7 @@
   "tag": "path",
   "rect": {
    "x": 707,
-   "y": 2342,
+   "y": 2313,
    "w": 26,
    "h": 26
   },
@@ -28555,7 +28555,7 @@
   "tag": "path",
   "rect": {
    "x": 713,
-   "y": 2348,
+   "y": 2319,
    "w": 10,
    "h": 10
   },
@@ -28607,7 +28607,7 @@
   "tag": "path",
   "rect": {
    "x": 713,
-   "y": 2348,
+   "y": 2319,
    "w": 14,
    "h": 14
   },
@@ -28660,7 +28660,7 @@
   "cls": "elementor-element elementor-element-98e90cd animated-slow elementor-widget elementor-widget-heading animated fadeIn",
   "rect": {
    "x": 642,
-   "y": 2420,
+   "y": 2391,
    "w": 156,
    "h": 56
   },
@@ -28713,7 +28713,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 642,
-   "y": 2420,
+   "y": 2391,
    "w": 156,
    "h": 56
   },
@@ -28766,7 +28766,7 @@
   "cls": "elementor-heading-title elementor-size-default",
   "rect": {
    "x": 642,
-   "y": 2420,
+   "y": 2391,
    "w": 156,
    "h": 56
   },
@@ -28818,7 +28818,7 @@
   "tag": "br",
   "rect": {
    "x": 783,
-   "y": 2419,
+   "y": 2390,
    "w": 0,
    "h": 29
   },
@@ -28871,7 +28871,7 @@
   "cls": "elementor-element elementor-element-7892e12 elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 548,
-   "y": 2496,
+   "y": 2467,
    "w": 344,
    "h": 132
   },
@@ -28925,7 +28925,7 @@
   "text": "Working to meet Veteran needs for Community-Based Outpatient Clinics (CBOCs) and",
   "rect": {
    "x": 548,
-   "y": 2496,
+   "y": 2467,
    "w": 344,
    "h": 132
   },
@@ -28978,7 +28978,7 @@
   "cls": "elementor-element elementor-element-509d8185 elementor-align-center elementor-widget elementor-widget-button",
   "rect": {
    "x": 645,
-   "y": 2648,
+   "y": 2619,
    "w": 151,
    "h": 53
   },
@@ -29031,7 +29031,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 645,
-   "y": 2668,
+   "y": 2639,
    "w": 151,
    "h": 53
   },
@@ -29084,7 +29084,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 645,
-   "y": 2668,
+   "y": 2639,
    "w": 151,
    "h": 33
   },
@@ -29137,7 +29137,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 645,
-   "y": 2676,
+   "y": 2647,
    "w": 151,
    "h": 18
   },
@@ -29190,7 +29190,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 645,
-   "y": 2676,
+   "y": 2647,
    "w": 151,
    "h": 18
   },
@@ -29243,7 +29243,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 778,
-   "y": 2676,
+   "y": 2647,
    "w": 18,
    "h": 18
   },
@@ -29295,7 +29295,7 @@
   "tag": "svg",
   "rect": {
    "x": 778,
-   "y": 2676,
+   "y": 2647,
    "w": 18,
    "h": 18
   },
@@ -29347,7 +29347,7 @@
   "tag": "path",
   "rect": {
    "x": 783,
-   "y": 2679,
+   "y": 2650,
    "w": 7,
    "h": 11
   },
@@ -29401,7 +29401,7 @@
   "text": "discover more",
   "rect": {
    "x": 645,
-   "y": 2676,
+   "y": 2647,
    "w": 123,
    "h": 18
   },
@@ -29454,7 +29454,7 @@
   "cls": "elementor-element elementor-element-35f0c5cb e-con-full e-flex e-con e-child",
   "rect": {
    "x": 955,
-   "y": 2307,
+   "y": 2278,
    "w": 410,
    "h": 427
   },
@@ -29507,7 +29507,7 @@
   "cls": "elementor-element elementor-element-76b7d4ae elementor-view-default elementor-widget elementor-widget-icon",
   "rect": {
    "x": 1135,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -29560,7 +29560,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 1135,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -29613,7 +29613,7 @@
   "cls": "elementor-icon-wrapper",
   "rect": {
    "x": 1135,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 60
   },
@@ -29666,7 +29666,7 @@
   "cls": "elementor-icon",
   "rect": {
    "x": 1135,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 50
   },
@@ -29719,7 +29719,7 @@
   "id": "Task-Checklist-Write--Streamline-Ultimate",
   "rect": {
    "x": 1135,
-   "y": 2340,
+   "y": 2311,
    "w": 50,
    "h": 50
   },
@@ -29876,7 +29876,7 @@
   "tag": "path",
   "rect": {
    "x": 1137,
-   "y": 2346,
+   "y": 2317,
    "w": 36,
    "h": 42
   },
@@ -29928,7 +29928,7 @@
   "tag": "path",
   "rect": {
    "x": 1141,
-   "y": 2350,
+   "y": 2321,
    "w": 28,
    "h": 34
   },
@@ -29980,7 +29980,7 @@
   "tag": "path",
   "rect": {
    "x": 1146,
-   "y": 2350,
+   "y": 2321,
    "w": 18,
    "h": 6
   },
@@ -30032,7 +30032,7 @@
   "tag": "path",
   "rect": {
    "x": 1147,
-   "y": 2342,
+   "y": 2313,
    "w": 16,
    "h": 10
   },
@@ -30084,7 +30084,7 @@
   "tag": "path",
   "rect": {
    "x": 1147,
-   "y": 2342,
+   "y": 2313,
    "w": 16,
    "h": 6
   },
@@ -30136,7 +30136,7 @@
   "tag": "path",
   "rect": {
    "x": 1137,
-   "y": 2346,
+   "y": 2317,
    "w": 19,
    "h": 42
   },
@@ -30188,7 +30188,7 @@
   "tag": "path",
   "rect": {
    "x": 1167,
-   "y": 2346,
+   "y": 2317,
    "w": 6,
    "h": 14
   },
@@ -30240,7 +30240,7 @@
   "tag": "path",
   "rect": {
    "x": 1147,
-   "y": 2342,
+   "y": 2313,
    "w": 16,
    "h": 10
   },
@@ -30292,7 +30292,7 @@
   "tag": "path",
   "rect": {
    "x": 1163,
-   "y": 2350,
+   "y": 2321,
    "w": 6,
    "h": 10
   },
@@ -30344,7 +30344,7 @@
   "tag": "path",
   "rect": {
    "x": 1141,
-   "y": 2350,
+   "y": 2321,
    "w": 15,
    "h": 34
   },
@@ -30396,7 +30396,7 @@
   "tag": "path",
   "rect": {
    "x": 1147,
-   "y": 2358,
+   "y": 2329,
    "w": 16,
    "h": 0
   },
@@ -30448,7 +30448,7 @@
   "tag": "path",
   "rect": {
    "x": 1147,
-   "y": 2364,
+   "y": 2335,
    "w": 12,
    "h": 0
   },
@@ -30500,7 +30500,7 @@
   "tag": "path",
   "rect": {
    "x": 1147,
-   "y": 2370,
+   "y": 2341,
    "w": 8,
    "h": 0
   },
@@ -30552,7 +30552,7 @@
   "tag": "path",
   "rect": {
    "x": 1159,
-   "y": 2379,
+   "y": 2350,
    "w": 8,
    "h": 8
   },
@@ -30604,7 +30604,7 @@
   "tag": "path",
   "rect": {
    "x": 1161,
-   "y": 2367,
+   "y": 2338,
    "w": 19,
    "h": 19
   },
@@ -30656,7 +30656,7 @@
   "tag": "path",
   "rect": {
    "x": 1174,
-   "y": 2364,
+   "y": 2335,
    "w": 9,
    "h": 9
   },
@@ -30709,7 +30709,7 @@
   "cls": "elementor-element elementor-element-61a49e26 animated-slow elementor-widget elementor-widget-heading animated fadeIn",
   "rect": {
    "x": 1111,
-   "y": 2420,
+   "y": 2391,
    "w": 99,
    "h": 56
   },
@@ -30762,7 +30762,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 1111,
-   "y": 2420,
+   "y": 2391,
    "w": 99,
    "h": 56
   },
@@ -30815,7 +30815,7 @@
   "cls": "elementor-heading-title elementor-size-default",
   "rect": {
    "x": 1111,
-   "y": 2420,
+   "y": 2391,
    "w": 99,
    "h": 56
   },
@@ -30867,7 +30867,7 @@
   "tag": "br",
   "rect": {
    "x": 1210,
-   "y": 2419,
+   "y": 2390,
    "w": 0,
    "h": 29
   },
@@ -30920,7 +30920,7 @@
   "cls": "elementor-element elementor-element-6fea293e elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 988,
-   "y": 2496,
+   "y": 2467,
    "w": 344,
    "h": 132
   },
@@ -30973,7 +30973,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 988,
-   "y": 2496,
+   "y": 2467,
    "w": 344,
    "h": 132
   },
@@ -31026,7 +31026,7 @@
   "text": "Providing guidance to optimize strategies, improve operations, and drive long-te",
   "rect": {
    "x": 988,
-   "y": 2496,
+   "y": 2467,
    "w": 344,
    "h": 132
   },
@@ -31079,7 +31079,7 @@
   "cls": "elementor-element elementor-element-7ce23df0 elementor-align-center elementor-widget elementor-widget-button",
   "rect": {
    "x": 1085,
-   "y": 2648,
+   "y": 2619,
    "w": 151,
    "h": 53
   },
@@ -31132,7 +31132,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 1085,
-   "y": 2668,
+   "y": 2639,
    "w": 151,
    "h": 53
   },
@@ -31185,7 +31185,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 1085,
-   "y": 2668,
+   "y": 2639,
    "w": 151,
    "h": 33
   },
@@ -31238,7 +31238,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 1085,
-   "y": 2676,
+   "y": 2647,
    "w": 151,
    "h": 18
   },
@@ -31291,7 +31291,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 1085,
-   "y": 2676,
+   "y": 2647,
    "w": 151,
    "h": 18
   },
@@ -31344,7 +31344,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 1218,
-   "y": 2676,
+   "y": 2647,
    "w": 18,
    "h": 18
   },
@@ -31396,7 +31396,7 @@
   "tag": "svg",
   "rect": {
    "x": 1218,
-   "y": 2676,
+   "y": 2647,
    "w": 18,
    "h": 18
   },
@@ -31448,7 +31448,7 @@
   "tag": "path",
   "rect": {
    "x": 1223,
-   "y": 2679,
+   "y": 2650,
    "w": 7,
    "h": 11
   },
@@ -31502,7 +31502,7 @@
   "text": "discover more",
   "rect": {
    "x": 1085,
-   "y": 2676,
+   "y": 2647,
    "w": 123,
    "h": 18
   },
@@ -31555,7 +31555,7 @@
   "cls": "elementor-element elementor-element-356cad0e e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 2734,
+   "y": 2705,
    "w": 1440,
    "h": 868
   },
@@ -31608,7 +31608,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 2734,
+   "y": 2705,
    "w": 1290,
    "h": 868
   },
@@ -31661,7 +31661,7 @@
   "cls": "elementor-element elementor-element-23613d6f e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 2834,
+   "y": 2805,
    "w": 1290,
    "h": 195
   },
@@ -31714,7 +31714,7 @@
   "cls": "elementor-element elementor-element-5f5a2b38 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 2834,
+   "y": 2805,
    "w": 508,
    "h": 170
   },
@@ -31767,7 +31767,7 @@
   "cls": "elementor-element elementor-element-6a99620e elementor-widget elementor-widget-heading",
   "rect": {
    "x": 75,
-   "y": 2834,
+   "y": 2805,
    "w": 508,
    "h": 14
   },
@@ -31820,7 +31820,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 2834,
+   "y": 2805,
    "w": 508,
    "h": 14
   },
@@ -31874,7 +31874,7 @@
   "text": "WHAT WE ARE KNOWN FOR",
   "rect": {
    "x": 75,
-   "y": 2834,
+   "y": 2805,
    "w": 508,
    "h": 14
   },
@@ -31927,7 +31927,7 @@
   "cls": "elementor-element elementor-element-17d4e1c5 elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 75,
-   "y": 2868,
+   "y": 2839,
    "w": 508,
    "h": 50
   },
@@ -31980,7 +31980,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 2868,
+   "y": 2839,
    "w": 508,
    "h": 50
   },
@@ -32034,7 +32034,7 @@
   "text": "Areas Of Expertise",
   "rect": {
    "x": 75,
-   "y": 2868,
+   "y": 2839,
    "w": 508,
    "h": 50
   },
@@ -32087,7 +32087,7 @@
   "cls": "elementor-element elementor-element-588b166d elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 75,
-   "y": 2938,
+   "y": 2909,
    "w": 508,
    "h": 66
   },
@@ -32141,7 +32141,7 @@
   "text": "We bring a passionate and futuristic vision to every project in a positive and i",
   "rect": {
    "x": 75,
-   "y": 2938,
+   "y": 2909,
    "w": 508,
    "h": 66
   },
@@ -32194,7 +32194,7 @@
   "cls": "elementor-element elementor-element-150cc78e e-con-full e-flex e-con e-child",
   "rect": {
    "x": 603,
-   "y": 2951,
+   "y": 2922,
    "w": 762,
    "h": 53
   },
@@ -32247,7 +32247,7 @@
   "cls": "elementor-element elementor-element-67deeda1 elementor-align-left elementor-mobile_extra-align-left elementor-widget elementor-widget-button",
   "rect": {
    "x": 1217,
-   "y": 2951,
+   "y": 2922,
    "w": 148,
    "h": 53
   },
@@ -32300,7 +32300,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 1217,
-   "y": 2971,
+   "y": 2942,
    "w": 148,
    "h": 33
   },
@@ -32353,7 +32353,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 1217,
-   "y": 2971,
+   "y": 2942,
    "w": 148,
    "h": 33
   },
@@ -32406,7 +32406,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 1217,
-   "y": 2979,
+   "y": 2950,
    "w": 148,
    "h": 18
   },
@@ -32459,7 +32459,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 1217,
-   "y": 2979,
+   "y": 2950,
    "w": 148,
    "h": 18
   },
@@ -32512,7 +32512,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 1347,
-   "y": 2979,
+   "y": 2950,
    "w": 18,
    "h": 18
   },
@@ -32564,7 +32564,7 @@
   "tag": "svg",
   "rect": {
    "x": 1347,
-   "y": 2979,
+   "y": 2950,
    "w": 18,
    "h": 18
   },
@@ -32616,7 +32616,7 @@
   "tag": "path",
   "rect": {
    "x": 1352,
-   "y": 2982,
+   "y": 2953,
    "w": 7,
    "h": 11
   },
@@ -32670,7 +32670,7 @@
   "text": "view all areas",
   "rect": {
    "x": 1217,
-   "y": 2979,
+   "y": 2950,
    "w": 120,
    "h": 18
   },
@@ -32723,7 +32723,7 @@
   "cls": "elementor-element elementor-element-560ce38b e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 3049,
+   "y": 3020,
    "w": 1290,
    "h": 453
   },
@@ -32776,7 +32776,7 @@
   "cls": "elementor-element elementor-element-46338905 hoverTabs e-n-tabs-tablet elementor-widget elementor-widget-n-tabs",
   "rect": {
    "x": 75,
-   "y": 3049,
+   "y": 3020,
    "w": 1290,
    "h": 453
   },
@@ -32829,7 +32829,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 3049,
+   "y": 3020,
    "w": 1290,
    "h": 453
   },
@@ -32882,7 +32882,7 @@
   "cls": "e-n-tabs e-activated",
   "rect": {
    "x": 75,
-   "y": 3049,
+   "y": 3020,
    "w": 1290,
    "h": 453
   },
@@ -32935,7 +32935,7 @@
   "cls": "e-n-tabs-heading",
   "rect": {
    "x": 978,
-   "y": 3049,
+   "y": 3020,
    "w": 387,
    "h": 453
   },
@@ -32989,7 +32989,7 @@
   "cls": "e-n-tab-title",
   "rect": {
    "x": 978,
-   "y": 3049,
+   "y": 3020,
    "w": 387,
    "h": 75
   },
@@ -33043,7 +33043,7 @@
   "text": "Healthcare Planning",
   "rect": {
    "x": 1013,
-   "y": 3073,
+   "y": 3044,
    "w": 155,
    "h": 26
   },
@@ -33097,7 +33097,7 @@
   "cls": "e-n-tab-title",
   "rect": {
    "x": 978,
-   "y": 3123,
+   "y": 3094,
    "w": 387,
    "h": 76
   },
@@ -33151,7 +33151,7 @@
   "text": "Environmental Planning",
   "rect": {
    "x": 1013,
-   "y": 3148,
+   "y": 3119,
    "w": 181,
    "h": 26
   },
@@ -33205,7 +33205,7 @@
   "cls": "e-n-tab-title",
   "rect": {
    "x": 978,
-   "y": 3199,
+   "y": 3170,
    "w": 387,
    "h": 76
   },
@@ -33259,7 +33259,7 @@
   "text": "Facility Asset Management",
   "rect": {
    "x": 1013,
-   "y": 3223,
+   "y": 3194,
    "w": 203,
    "h": 26
   },
@@ -33313,7 +33313,7 @@
   "cls": "e-n-tab-title",
   "rect": {
    "x": 978,
-   "y": 3275,
+   "y": 3246,
    "w": 387,
    "h": 76
   },
@@ -33367,7 +33367,7 @@
   "text": "Sustainable Design",
   "rect": {
    "x": 1013,
-   "y": 3299,
+   "y": 3270,
    "w": 144,
    "h": 26
   },
@@ -33421,7 +33421,7 @@
   "cls": "e-n-tab-title",
   "rect": {
    "x": 978,
-   "y": 3350,
+   "y": 3321,
    "w": 387,
    "h": 76
   },
@@ -33475,7 +33475,7 @@
   "text": "Construction Support Services",
   "rect": {
    "x": 1013,
-   "y": 3375,
+   "y": 3346,
    "w": 236,
    "h": 26
   },
@@ -33529,7 +33529,7 @@
   "cls": "e-n-tab-title",
   "rect": {
    "x": 978,
-   "y": 3426,
+   "y": 3397,
    "w": 387,
    "h": 76
   },
@@ -33583,7 +33583,7 @@
   "text": "Quality Management",
   "rect": {
    "x": 1013,
-   "y": 3450,
+   "y": 3421,
    "w": 156,
    "h": 26
   },
@@ -33636,7 +33636,7 @@
   "cls": "e-n-tabs-content",
   "rect": {
    "x": 75,
-   "y": 3049,
+   "y": 3020,
    "w": 903,
    "h": 453
   },
@@ -33690,7 +33690,7 @@
   "cls": "e-active elementor-element elementor-element-6e01aeab e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 3049,
+   "y": 3020,
    "w": 903,
    "h": 453
   },
@@ -33743,7 +33743,7 @@
   "cls": "elementor-element elementor-element-b94f78e e-con-full e-flex e-con e-child",
   "rect": {
    "x": 155,
-   "y": 3129,
+   "y": 3100,
    "w": 743,
    "h": 293
   },
@@ -33796,7 +33796,7 @@
   "cls": "elementor-element elementor-element-43bf33e0 animated-slow elementor-widget elementor-widget-heading",
   "rect": {
    "x": 155,
-   "y": 3129,
+   "y": 3100,
    "w": 743,
    "h": 35
   },
@@ -33849,7 +33849,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 155,
-   "y": 3129,
+   "y": 3100,
    "w": 743,
    "h": 35
   },
@@ -33903,7 +33903,7 @@
   "text": "Healthcare Planning",
   "rect": {
    "x": 155,
-   "y": 3129,
+   "y": 3100,
    "w": 743,
    "h": 35
   },
@@ -33956,7 +33956,7 @@
   "cls": "elementor-element elementor-element-727a0494 elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 155,
-   "y": 3184,
+   "y": 3155,
    "w": 743,
    "h": 165
   },
@@ -34009,7 +34009,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 155,
-   "y": 3184,
+   "y": 3155,
    "w": 743,
    "h": 165
   },
@@ -34062,7 +34062,7 @@
   "text": "Across both the public and private sectors, we partner with our clients to desig",
   "rect": {
    "x": 155,
-   "y": 3184,
+   "y": 3155,
    "w": 520,
    "h": 165
   },
@@ -34115,7 +34115,7 @@
   "cls": "elementor-element elementor-element-3cc32eb3 elementor-align-left elementor-widget elementor-widget-button",
   "rect": {
    "x": 155,
-   "y": 3369,
+   "y": 3340,
    "w": 148,
    "h": 53
   },
@@ -34168,7 +34168,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 155,
-   "y": 3389,
+   "y": 3360,
    "w": 148,
    "h": 53
   },
@@ -34221,7 +34221,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 155,
-   "y": 3389,
+   "y": 3360,
    "w": 148,
    "h": 33
   },
@@ -34274,7 +34274,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 155,
-   "y": 3397,
+   "y": 3368,
    "w": 148,
    "h": 18
   },
@@ -34327,7 +34327,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 155,
-   "y": 3397,
+   "y": 3368,
    "w": 148,
    "h": 18
   },
@@ -34380,7 +34380,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 285,
-   "y": 3397,
+   "y": 3368,
    "w": 18,
    "h": 18
   },
@@ -34432,7 +34432,7 @@
   "tag": "svg",
   "rect": {
    "x": 285,
-   "y": 3397,
+   "y": 3368,
    "w": 18,
    "h": 18
   },
@@ -34484,7 +34484,7 @@
   "tag": "path",
   "rect": {
    "x": 290,
-   "y": 3400,
+   "y": 3371,
    "w": 7,
    "h": 11
   },
@@ -34538,7 +34538,7 @@
   "text": "View All Areas",
   "rect": {
    "x": 155,
-   "y": 3397,
+   "y": 3368,
    "w": 120,
    "h": 18
   },
@@ -39101,7 +39101,7 @@
   "cls": "elementor-element elementor-element-3e965dc5 e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 3602,
+   "y": 3573,
    "w": 1440,
    "h": 604
   },
@@ -39154,7 +39154,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 3602,
+   "y": 3573,
    "w": 1290,
    "h": 604
   },
@@ -39207,7 +39207,7 @@
   "cls": "elementor-element elementor-element-191a5948 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 3652,
+   "y": 3623,
    "w": 1290,
    "h": 454
   },
@@ -39260,7 +39260,7 @@
   "cls": "elementor-element elementor-element-243c5152 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 3652,
+   "y": 3623,
    "w": 804,
    "h": 454
   },
@@ -39313,7 +39313,7 @@
   "cls": "elementor-element elementor-element-31ac7361 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 929,
-   "y": 3652,
+   "y": 3623,
    "w": 436,
    "h": 454
   },
@@ -39366,7 +39366,7 @@
   "cls": "elementor-element elementor-element-1d1405cd elementor-widget elementor-widget-heading",
   "rect": {
    "x": 960,
-   "y": 3683,
+   "y": 3654,
    "w": 374,
    "h": 14
   },
@@ -39419,7 +39419,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 960,
-   "y": 3683,
+   "y": 3654,
    "w": 374,
    "h": 14
   },
@@ -39473,7 +39473,7 @@
   "text": "careers",
   "rect": {
    "x": 960,
-   "y": 3683,
+   "y": 3654,
    "w": 374,
    "h": 14
   },
@@ -39523,14 +39523,14 @@
  {
   "i": 747,
   "tag": "div",
-  "cls": "elementor-element elementor-element-340bf895 elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-340bf895 elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 960,
-   "y": 3717,
+   "y": 3688,
    "w": 374,
    "h": 100
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -39579,11 +39579,11 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 960,
-   "y": 3717,
+   "y": 3688,
    "w": 374,
    "h": 100
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -39633,11 +39633,11 @@
   "text": "Find your next opportunity",
   "rect": {
    "x": 960,
-   "y": 3717,
+   "y": 3688,
    "w": 374,
    "h": 100
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "41.6px",
@@ -39686,7 +39686,7 @@
   "cls": "elementor-element elementor-element-45c9aed6 elementor-align-left elementor-widget elementor-widget-button",
   "rect": {
    "x": 960,
-   "y": 3837,
+   "y": 3808,
    "w": 122,
    "h": 53
   },
@@ -39739,7 +39739,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 960,
-   "y": 3857,
+   "y": 3828,
    "w": 122,
    "h": 53
   },
@@ -39792,7 +39792,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 960,
-   "y": 3857,
+   "y": 3828,
    "w": 122,
    "h": 33
   },
@@ -39845,7 +39845,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 960,
-   "y": 3865,
+   "y": 3836,
    "w": 122,
    "h": 18
   },
@@ -39898,7 +39898,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 960,
-   "y": 3865,
+   "y": 3836,
    "w": 122,
    "h": 18
   },
@@ -39951,7 +39951,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 1064,
-   "y": 3865,
+   "y": 3836,
    "w": 18,
    "h": 18
   },
@@ -40003,7 +40003,7 @@
   "tag": "svg",
   "rect": {
    "x": 1064,
-   "y": 3865,
+   "y": 3836,
    "w": 18,
    "h": 18
   },
@@ -40055,7 +40055,7 @@
   "tag": "path",
   "rect": {
    "x": 1070,
-   "y": 3868,
+   "y": 3839,
    "w": 7,
    "h": 11
   },
@@ -40109,7 +40109,7 @@
   "text": "contact us",
   "rect": {
    "x": 960,
-   "y": 3865,
+   "y": 3836,
    "w": 94,
    "h": 18
   },
@@ -40162,7 +40162,7 @@
   "cls": "elementor-element elementor-element-62b2ee31 elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 960,
-   "y": 3910,
+   "y": 3881,
    "w": 374,
    "h": 165
   },
@@ -40215,7 +40215,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 960,
-   "y": 3910,
+   "y": 3881,
    "w": 324,
    "h": 165
   },
@@ -40268,7 +40268,7 @@
   "text": "What if you could join a firm that operates like a family, with ethics and value",
   "rect": {
    "x": 960,
-   "y": 3910,
+   "y": 3881,
    "w": 324,
    "h": 165
   },
@@ -40320,7 +40320,7 @@
   "tag": "div",
   "rect": {
    "x": 0,
-   "y": 4206,
+   "y": 4177,
    "w": 1440,
    "h": 433
   },
@@ -40374,7 +40374,7 @@
   "cls": "post-259",
   "rect": {
    "x": 0,
-   "y": 4206,
+   "y": 4177,
    "w": 1440,
    "h": 433
   },
@@ -40427,7 +40427,7 @@
   "cls": "entry-content is-layout-constrained",
   "rect": {
    "x": 0,
-   "y": 4206,
+   "y": 4177,
    "w": 1440,
    "h": 433
   },
@@ -40480,7 +40480,7 @@
   "cls": "elementor elementor-259",
   "rect": {
    "x": 0,
-   "y": 4206,
+   "y": 4177,
    "w": 1440,
    "h": 433
   },
@@ -40533,7 +40533,7 @@
   "cls": "elementor-element elementor-element-6ab27409 e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 4206,
+   "y": 4177,
    "w": 1440,
    "h": 433
   },
@@ -40586,7 +40586,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 4206,
+   "y": 4177,
    "w": 1290,
    "h": 433
   },
@@ -40639,7 +40639,7 @@
   "cls": "elementor-element elementor-element-72135c57 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 462,
-   "y": 4306,
+   "y": 4277,
    "w": 516,
    "h": 233
   },
@@ -40692,7 +40692,7 @@
   "cls": "elementor-element elementor-element-68483a71 elementor-widget elementor-widget-heading",
   "rect": {
    "x": 660,
-   "y": 4306,
+   "y": 4277,
    "w": 120,
    "h": 15
   },
@@ -40745,7 +40745,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 660,
-   "y": 4306,
+   "y": 4277,
    "w": 120,
    "h": 15
   },
@@ -40799,7 +40799,7 @@
   "text": "GET STARTED",
   "rect": {
    "x": 660,
-   "y": 4306,
+   "y": 4277,
    "w": 120,
    "h": 15
   },
@@ -40849,14 +40849,14 @@
  {
   "i": 772,
   "tag": "div",
-  "cls": "elementor-element elementor-element-689b94be elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-689b94be elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 462,
-   "y": 4341,
+   "y": 4312,
    "w": 516,
    "h": 100
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -40905,11 +40905,11 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 462,
-   "y": 4341,
+   "y": 4312,
    "w": 516,
    "h": 100
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -40959,11 +40959,11 @@
   "text": "Start Designing Your Future Today",
   "rect": {
    "x": 462,
-   "y": 4341,
+   "y": 4312,
    "w": 516,
    "h": 100
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "41.6px",
@@ -41012,7 +41012,7 @@
   "cls": "elementor-element elementor-element-5ff592c3 elementor-widget elementor-widget-button",
   "rect": {
    "x": 596,
-   "y": 4461,
+   "y": 4432,
    "w": 249,
    "h": 78
   },
@@ -41065,7 +41065,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 596,
-   "y": 4481,
+   "y": 4452,
    "w": 249,
    "h": 58
   },
@@ -41118,7 +41118,7 @@
   "cls": "elementor-button-wrapper",
   "rect": {
    "x": 596,
-   "y": 4481,
+   "y": 4452,
    "w": 249,
    "h": 58
   },
@@ -41171,7 +41171,7 @@
   "cls": "elementor-button elementor-button-link elementor-size-lg",
   "rect": {
    "x": 596,
-   "y": 4481,
+   "y": 4452,
    "w": 249,
    "h": 58
   },
@@ -41224,7 +41224,7 @@
   "cls": "elementor-button-content-wrapper",
   "rect": {
    "x": 636,
-   "y": 4501,
+   "y": 4472,
    "w": 169,
    "h": 18
   },
@@ -41277,7 +41277,7 @@
   "cls": "elementor-button-icon",
   "rect": {
    "x": 787,
-   "y": 4501,
+   "y": 4472,
    "w": 18,
    "h": 18
   },
@@ -41329,7 +41329,7 @@
   "tag": "svg",
   "rect": {
    "x": 787,
-   "y": 4501,
+   "y": 4472,
    "w": 18,
    "h": 18
   },
@@ -41381,7 +41381,7 @@
   "tag": "path",
   "rect": {
    "x": 792,
-   "y": 4504,
+   "y": 4475,
    "w": 7,
    "h": 11
   },
@@ -41435,7 +41435,7 @@
   "text": "connect with us",
   "rect": {
    "x": 636,
-   "y": 4501,
+   "y": 4472,
    "w": 141,
    "h": 18
   },
@@ -41488,7 +41488,7 @@
   "cls": "elementor elementor-591 elementor-location-footer",
   "rect": {
    "x": 0,
-   "y": 4639,
+   "y": 4610,
    "w": 1440,
    "h": 529
   },
@@ -41541,7 +41541,7 @@
   "cls": "elementor-element elementor-element-141c637c e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 4639,
+   "y": 4610,
    "w": 1440,
    "h": 433
   },
@@ -41594,7 +41594,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 4639,
+   "y": 4610,
    "w": 1290,
    "h": 433
   },
@@ -41647,7 +41647,7 @@
   "cls": "elementor-element elementor-element-38bf297e e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 4739,
+   "y": 4710,
    "w": 286,
    "h": 215
   },
@@ -41700,7 +41700,7 @@
   "cls": "elementor-element elementor-element-3abfd99e elementor-widget elementor-widget-image",
   "rect": {
    "x": 75,
-   "y": 4739,
+   "y": 4710,
    "w": 286,
    "h": 70
   },
@@ -41753,7 +41753,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 4739,
+   "y": 4710,
    "w": 286,
    "h": 70
   },
@@ -41806,7 +41806,7 @@
   "cls": "attachment-medium_large size-medium_large wp-image-17",
   "rect": {
    "x": 75,
-   "y": 4739,
+   "y": 4710,
    "w": 233,
    "h": 70
   },
@@ -41859,7 +41859,7 @@
   "cls": "elementor-element elementor-element-e00beb5 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 4829,
+   "y": 4800,
    "w": 286,
    "h": 125
   },
@@ -41912,7 +41912,7 @@
   "cls": "elementor-element elementor-element-22848f7 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 4829,
+   "y": 4800,
    "w": 133,
    "h": 125
   },
@@ -41965,7 +41965,7 @@
   "cls": "elementor-element elementor-element-f294480 elementor-widget elementor-widget-image",
   "rect": {
    "x": 75,
-   "y": 4829,
+   "y": 4800,
    "w": 133,
    "h": 125
   },
@@ -42018,7 +42018,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 72,
-   "y": 4829,
+   "y": 4800,
    "w": 136,
    "h": 125
   },
@@ -42071,7 +42071,7 @@
   "cls": "attachment-large size-large wp-image-1012",
   "rect": {
    "x": 72,
-   "y": 4839,
+   "y": 4810,
    "w": 115,
    "h": 115
   },
@@ -42124,7 +42124,7 @@
   "cls": "elementor-element elementor-element-592a60a e-con-full e-flex e-con e-child",
   "rect": {
    "x": 228,
-   "y": 4840,
+   "y": 4811,
    "w": 133,
    "h": 103
   },
@@ -42177,7 +42177,7 @@
   "cls": "elementor-element elementor-element-9333f38 elementor-widget elementor-widget-image",
   "rect": {
    "x": 228,
-   "y": 4840,
+   "y": 4811,
    "w": 133,
    "h": 103
   },
@@ -42230,7 +42230,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 228,
-   "y": 4840,
+   "y": 4811,
    "w": 133,
    "h": 103
   },
@@ -42283,7 +42283,7 @@
   "cls": "attachment-large size-large wp-image-1599",
   "rect": {
    "x": 228,
-   "y": 4850,
+   "y": 4821,
    "w": 93,
    "h": 93
   },
@@ -42336,7 +42336,7 @@
   "cls": "elementor-element elementor-element-19f3e9d0 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 391,
-   "y": 4739,
+   "y": 4710,
    "w": 343,
    "h": 233
   },
@@ -42386,14 +42386,14 @@
  {
   "i": 801,
   "tag": "div",
-  "cls": "elementor-element elementor-element-28467d2e elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-28467d2e elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 391,
-   "y": 4739,
+   "y": 4710,
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -42442,11 +42442,11 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 391,
-   "y": 4739,
+   "y": 4710,
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -42495,11 +42495,11 @@
   "cls": "elementor-heading-title elementor-size-default",
   "rect": {
    "x": 391,
-   "y": 4739,
+   "y": 4710,
    "w": 343,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -42548,11 +42548,11 @@
   "text": "Contact Lógos",
   "rect": {
    "x": 391,
-   "y": 4737,
+   "y": 4708,
    "w": 133,
    "h": 22
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -42601,7 +42601,7 @@
   "cls": "elementor-element elementor-element-512e1fce elementor-widget-divider--view-line elementor-widget elementor-widget-divider",
   "rect": {
    "x": 391,
-   "y": 4777,
+   "y": 4748,
    "w": 343,
    "h": 0
   },
@@ -42654,7 +42654,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 391,
-   "y": 4767,
+   "y": 4738,
    "w": 343,
    "h": 0
   },
@@ -42707,7 +42707,7 @@
   "cls": "elementor-divider",
   "rect": {
    "x": 391,
-   "y": 4767,
+   "y": 4738,
    "w": 343,
    "h": 5
   },
@@ -42760,7 +42760,7 @@
   "cls": "elementor-divider-separator",
   "rect": {
    "x": 391,
-   "y": 4769,
+   "y": 4740,
    "w": 274,
    "h": 1
   },
@@ -42813,7 +42813,7 @@
   "cls": "elementor-element elementor-element-60d954b5 elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 391,
-   "y": 4797,
+   "y": 4768,
    "w": 343,
    "h": 119
   },
@@ -42866,7 +42866,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 391,
-   "y": 4797,
+   "y": 4768,
    "w": 343,
    "h": 119
   },
@@ -42918,7 +42918,7 @@
   "tag": "p",
   "rect": {
    "x": 391,
-   "y": 4797,
+   "y": 4768,
    "w": 274,
    "h": 119
   },
@@ -42970,7 +42970,7 @@
   "tag": "br",
   "rect": {
    "x": 511,
-   "y": 4801,
+   "y": 4772,
    "w": 0,
    "h": 21
   },
@@ -43022,7 +43022,7 @@
   "tag": "br",
   "rect": {
    "x": 622,
-   "y": 4830,
+   "y": 4801,
    "w": 0,
    "h": 21
   },
@@ -43074,7 +43074,7 @@
   "tag": "br",
   "rect": {
    "x": 591,
-   "y": 4860,
+   "y": 4831,
    "w": 0,
    "h": 21
   },
@@ -43127,7 +43127,7 @@
   "text": "(301) 802.6262",
   "rect": {
    "x": 413,
-   "y": 4890,
+   "y": 4861,
    "w": 131,
    "h": 21
   },
@@ -43180,7 +43180,7 @@
   "cls": "elementor-element elementor-element-9ed9a24 elementor-shape-square e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons",
   "rect": {
    "x": 391,
-   "y": 4936,
+   "y": 4907,
    "w": 343,
    "h": 36
   },
@@ -43233,7 +43233,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 391,
-   "y": 4936,
+   "y": 4907,
    "w": 343,
    "h": 36
   },
@@ -43286,7 +43286,7 @@
   "cls": "elementor-social-icons-wrapper elementor-grid",
   "rect": {
    "x": 391,
-   "y": 4946,
+   "y": 4917,
    "w": 343,
    "h": 26
   },
@@ -43339,7 +43339,7 @@
   "cls": "elementor-grid-item",
   "rect": {
    "x": 391,
-   "y": 4946,
+   "y": 4917,
    "w": 26,
    "h": 26
   },
@@ -43392,7 +43392,7 @@
   "cls": "elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-eb2baad",
   "rect": {
    "x": 391,
-   "y": 4946,
+   "y": 4917,
    "w": 26,
    "h": 26
   },
@@ -43446,7 +43446,7 @@
   "text": "Linkedin",
   "rect": {
    "x": 403,
-   "y": -255065,
+   "y": -255094,
    "w": 1,
    "h": 1
   },
@@ -43498,7 +43498,7 @@
   "tag": "svg",
   "rect": {
    "x": 391,
-   "y": 4946,
+   "y": 4917,
    "w": 26,
    "h": 26
   },
@@ -43550,7 +43550,7 @@
   "tag": "path",
   "rect": {
    "x": 392,
-   "y": 4947,
+   "y": 4918,
    "w": 23,
    "h": 23
   },
@@ -43603,7 +43603,7 @@
   "cls": "elementor-element elementor-element-3bf99fd5 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 764,
-   "y": 4739,
+   "y": 4710,
    "w": 286,
    "h": 186
   },
@@ -43653,14 +43653,14 @@
  {
   "i": 825,
   "tag": "div",
-  "cls": "elementor-element elementor-element-5dfac52e elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-5dfac52e elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 764,
-   "y": 4739,
+   "y": 4710,
    "w": 286,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -43709,11 +43709,11 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 764,
-   "y": 4739,
+   "y": 4710,
    "w": 286,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -43762,11 +43762,11 @@
   "cls": "elementor-heading-title elementor-size-default",
   "rect": {
    "x": 764,
-   "y": 4739,
+   "y": 4710,
    "w": 286,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -43815,11 +43815,11 @@
   "text": "About Lógos",
   "rect": {
    "x": 764,
-   "y": 4737,
+   "y": 4708,
    "w": 114,
    "h": 22
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -43868,7 +43868,7 @@
   "cls": "elementor-element elementor-element-2f1c8e29 elementor-widget-divider--view-line elementor-widget elementor-widget-divider",
   "rect": {
    "x": 764,
-   "y": 4777,
+   "y": 4748,
    "w": 286,
    "h": 0
   },
@@ -43921,7 +43921,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 764,
-   "y": 4767,
+   "y": 4738,
    "w": 286,
    "h": 5
   },
@@ -43974,7 +43974,7 @@
   "cls": "elementor-divider",
   "rect": {
    "x": 764,
-   "y": 4767,
+   "y": 4738,
    "w": 286,
    "h": 5
   },
@@ -44027,7 +44027,7 @@
   "cls": "elementor-divider-separator",
   "rect": {
    "x": 764,
-   "y": 4769,
+   "y": 4740,
    "w": 229,
    "h": 1
   },
@@ -44080,7 +44080,7 @@
   "cls": "elementor-element elementor-element-1e3a6b5f elementor-nav-menu__align-start elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu",
   "rect": {
    "x": 764,
-   "y": 4797,
+   "y": 4768,
    "w": 286,
    "h": 128
   },
@@ -44133,7 +44133,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 764,
-   "y": 4797,
+   "y": 4768,
    "w": 286,
    "h": 128
   },
@@ -44186,7 +44186,7 @@
   "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none",
   "rect": {
    "x": 764,
-   "y": 4797,
+   "y": 4768,
    "w": 286,
    "h": 128
   },
@@ -44240,7 +44240,7 @@
   "cls": "elementor-nav-menu sm-vertical",
   "rect": {
    "x": 764,
-   "y": 4797,
+   "y": 4768,
    "w": 286,
    "h": 128
   },
@@ -44293,7 +44293,7 @@
   "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1588",
   "rect": {
    "x": 764,
-   "y": 4797,
+   "y": 4768,
    "w": 286,
    "h": 32
   },
@@ -44347,7 +44347,7 @@
   "text": "Ethics and Values",
   "rect": {
    "x": 764,
-   "y": 4797,
+   "y": 4768,
    "w": 286,
    "h": 32
   },
@@ -44400,7 +44400,7 @@
   "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1586",
   "rect": {
    "x": 764,
-   "y": 4829,
+   "y": 4800,
    "w": 286,
    "h": 32
   },
@@ -44454,7 +44454,7 @@
   "text": "Areas of Expertise",
   "rect": {
    "x": 764,
-   "y": 4829,
+   "y": 4800,
    "w": 286,
    "h": 32
   },
@@ -44507,7 +44507,7 @@
   "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1610",
   "rect": {
    "x": 764,
-   "y": 4861,
+   "y": 4832,
    "w": 286,
    "h": 32
   },
@@ -44561,7 +44561,7 @@
   "text": "News & Insights",
   "rect": {
    "x": 764,
-   "y": 4861,
+   "y": 4832,
    "w": 286,
    "h": 32
   },
@@ -44614,7 +44614,7 @@
   "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1585",
   "rect": {
    "x": 764,
-   "y": 4893,
+   "y": 4864,
    "w": 286,
    "h": 32
   },
@@ -44668,7 +44668,7 @@
   "text": "Contact Us",
   "rect": {
    "x": 764,
-   "y": 4893,
+   "y": 4864,
    "w": 286,
    "h": 32
   },
@@ -45256,7 +45256,7 @@
   "cls": "elementor-element elementor-element-b097f1f e-con-full e-flex e-con e-child",
   "rect": {
    "x": 1079,
-   "y": 4739,
+   "y": 4710,
    "w": 286,
    "h": 186
   },
@@ -45306,14 +45306,14 @@
  {
   "i": 856,
   "tag": "div",
-  "cls": "elementor-element elementor-element-6278211d elementor-invisible elementor-widget elementor-widget-heading",
+  "cls": "elementor-element elementor-element-6278211d elementor-widget elementor-widget-heading animated fadeInDown",
   "rect": {
    "x": 1079,
-   "y": 4739,
+   "y": 4710,
    "w": 76,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -45362,11 +45362,11 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 1079,
-   "y": 4739,
+   "y": 4710,
    "w": 76,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "Inter, sans-serif",
    "font-size": "20px",
@@ -45415,11 +45415,11 @@
   "cls": "elementor-heading-title elementor-size-default",
   "rect": {
    "x": 1079,
-   "y": 4739,
+   "y": 4710,
    "w": 76,
    "h": 18
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -45468,11 +45468,11 @@
   "text": "Services",
   "rect": {
    "x": 1079,
-   "y": 4737,
+   "y": 4708,
    "w": 76,
    "h": 22
   },
-  "visible": false,
+  "visible": true,
   "style": {
    "font-family": "\"Instrument Sans\", sans-serif",
    "font-size": "18px",
@@ -45521,7 +45521,7 @@
   "cls": "elementor-element elementor-element-5e2cba0b elementor-widget-divider--view-line elementor-widget elementor-widget-divider",
   "rect": {
    "x": 1079,
-   "y": 4777,
+   "y": 4748,
    "w": 286,
    "h": 0
   },
@@ -45574,7 +45574,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 1079,
-   "y": 4767,
+   "y": 4738,
    "w": 286,
    "h": 5
   },
@@ -45627,7 +45627,7 @@
   "cls": "elementor-divider",
   "rect": {
    "x": 1079,
-   "y": 4767,
+   "y": 4738,
    "w": 286,
    "h": 5
   },
@@ -45680,7 +45680,7 @@
   "cls": "elementor-divider-separator",
   "rect": {
    "x": 1079,
-   "y": 4769,
+   "y": 4740,
    "w": 229,
    "h": 1
   },
@@ -45733,7 +45733,7 @@
   "cls": "elementor-element elementor-element-6f39ae7 elementor-nav-menu__align-start elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu",
   "rect": {
    "x": 1079,
-   "y": 4797,
+   "y": 4768,
    "w": 220,
    "h": 128
   },
@@ -45786,7 +45786,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 1079,
-   "y": 4797,
+   "y": 4768,
    "w": 220,
    "h": 128
   },
@@ -45839,7 +45839,7 @@
   "cls": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none",
   "rect": {
    "x": 1079,
-   "y": 4797,
+   "y": 4768,
    "w": 220,
    "h": 128
   },
@@ -45893,7 +45893,7 @@
   "cls": "elementor-nav-menu sm-vertical",
   "rect": {
    "x": 1079,
-   "y": 4797,
+   "y": 4768,
    "w": 220,
    "h": 128
   },
@@ -45946,7 +45946,7 @@
   "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-855",
   "rect": {
    "x": 1079,
-   "y": 4797,
+   "y": 4768,
    "w": 220,
    "h": 32
   },
@@ -46000,7 +46000,7 @@
   "text": "Architecture & Engineering",
   "rect": {
    "x": 1079,
-   "y": 4797,
+   "y": 4768,
    "w": 220,
    "h": 32
   },
@@ -46053,7 +46053,7 @@
   "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-854",
   "rect": {
    "x": 1079,
-   "y": 4829,
+   "y": 4800,
    "w": 220,
    "h": 32
   },
@@ -46107,7 +46107,7 @@
   "text": "Real Estate Development",
   "rect": {
    "x": 1079,
-   "y": 4829,
+   "y": 4800,
    "w": 220,
    "h": 32
   },
@@ -46160,7 +46160,7 @@
   "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-853",
   "rect": {
    "x": 1079,
-   "y": 4861,
+   "y": 4832,
    "w": 220,
    "h": 32
   },
@@ -46214,7 +46214,7 @@
   "text": "Advisory Services",
   "rect": {
    "x": 1079,
-   "y": 4861,
+   "y": 4832,
    "w": 220,
    "h": 32
   },
@@ -46267,7 +46267,7 @@
   "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-1662",
   "rect": {
    "x": 1079,
-   "y": 4893,
+   "y": 4864,
    "w": 220,
    "h": 32
   },
@@ -46321,7 +46321,7 @@
   "text": "All Services",
   "rect": {
    "x": 1079,
-   "y": 4893,
+   "y": 4864,
    "w": 220,
    "h": 32
   },
@@ -46909,7 +46909,7 @@
   "cls": "elementor-element elementor-element-489ff96e e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 5072,
+   "y": 5043,
    "w": 1440,
    "h": 96
   },
@@ -46962,7 +46962,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 5072,
+   "y": 5043,
    "w": 1290,
    "h": 96
   },
@@ -47015,7 +47015,7 @@
   "cls": "elementor-element elementor-element-78a9507d e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 5072,
+   "y": 5043,
    "w": 1290,
    "h": 76
   },
@@ -47068,7 +47068,7 @@
   "cls": "elementor-element elementor-element-f8350ec e-con-full e-flex e-con e-child",
   "rect": {
    "x": 75,
-   "y": 5098,
+   "y": 5069,
    "w": 635,
    "h": 25
   },
@@ -47121,7 +47121,7 @@
   "cls": "elementor-element elementor-element-6b371a20 elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 75,
-   "y": 5098,
+   "y": 5069,
    "w": 635,
    "h": 25
   },
@@ -47174,7 +47174,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 75,
-   "y": 5098,
+   "y": 5069,
    "w": 635,
    "h": 25
   },
@@ -47227,7 +47227,7 @@
   "text": "© 2025 Lógos Bravo Zulu.",
   "rect": {
    "x": 75,
-   "y": 5098,
+   "y": 5069,
    "w": 635,
    "h": 25
   },
@@ -47280,7 +47280,7 @@
   "cls": "elementor-element elementor-element-68d5bd42 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 730,
-   "y": 5098,
+   "y": 5069,
    "w": 635,
    "h": 25
   },
@@ -47333,7 +47333,7 @@
   "cls": "elementor-element elementor-element-269152cc elementor-widget elementor-widget-text-editor",
   "rect": {
    "x": 1129,
-   "y": 5098,
+   "y": 5069,
    "w": 236,
    "h": 25
   },
@@ -47386,7 +47386,7 @@
   "cls": "elementor-widget-container",
   "rect": {
    "x": 1129,
-   "y": 5098,
+   "y": 5069,
    "w": 236,
    "h": 25
   },
@@ -47438,7 +47438,7 @@
   "tag": "p",
   "rect": {
    "x": 1129,
-   "y": 5098,
+   "y": 5069,
    "w": 236,
    "h": 25
   },
@@ -47491,7 +47491,7 @@
   "text": "Privacy Policy",
   "rect": {
    "x": 1129,
-   "y": 5100,
+   "y": 5071,
    "w": 97,
    "h": 19
   },
@@ -47544,7 +47544,7 @@
   "text": "Web Accessibility",
   "rect": {
    "x": 1242,
-   "y": 5100,
+   "y": 5071,
    "w": 123,
    "h": 19
   },
@@ -47596,7 +47596,7 @@
   "tag": "div",
   "rect": {
    "x": 0,
-   "y": 5167,
+   "y": 5138,
    "w": 1440,
    "h": 30
   },
@@ -47650,7 +47650,7 @@
   "cls": "post-92",
   "rect": {
    "x": 0,
-   "y": 5167,
+   "y": 5138,
    "w": 1440,
    "h": 30
   },
@@ -47703,7 +47703,7 @@
   "cls": "entry-content is-layout-constrained",
   "rect": {
    "x": 0,
-   "y": 5167,
+   "y": 5138,
    "w": 1440,
    "h": 30
   },
@@ -47756,7 +47756,7 @@
   "cls": "elementor elementor-92",
   "rect": {
    "x": 0,
-   "y": 5167,
+   "y": 5138,
    "w": 1440,
    "h": 30
   },
@@ -47809,7 +47809,7 @@
   "cls": "elementor-element elementor-element-efb9536 e-flex e-con-boxed e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 5167,
+   "y": 5138,
    "w": 1440,
    "h": 20
   },
@@ -47862,7 +47862,7 @@
   "cls": "e-con-inner",
   "rect": {
    "x": 75,
-   "y": 5167,
+   "y": 5138,
    "w": 1290,
    "h": 20
   },
@@ -47915,7 +47915,7 @@
   "cls": "elementor-element elementor-element-fa2d227 e-con-full e-flex e-con e-parent",
   "rect": {
    "x": 0,
-   "y": 5187,
+   "y": 5158,
    "w": 1440,
    "h": 10
   },
@@ -47968,7 +47968,7 @@
   "cls": "elementor-element elementor-element-824eeff e-con-full e-flex e-con e-child",
   "rect": {
    "x": 0,
-   "y": 5187,
+   "y": 5158,
    "w": 475,
    "h": 10
   },
@@ -48021,7 +48021,7 @@
   "cls": "elementor-element elementor-element-3ef7f08 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 475,
-   "y": 5187,
+   "y": 5158,
    "w": 475,
    "h": 10
   },
@@ -48074,7 +48074,7 @@
   "cls": "elementor-element elementor-element-950c1c5 e-con-full e-flex e-con e-child",
   "rect": {
    "x": 950,
-   "y": 5187,
+   "y": 5158,
    "w": 475,
    "h": 10
   },
@@ -49669,7 +49669,7 @@
   "cls": "elementor-screen-only",
   "rect": {
    "x": -1,
-   "y": -200115,
+   "y": -200144,
    "w": 1,
    "h": 1
   },
